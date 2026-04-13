@@ -1,0 +1,5802 @@
+{
+   "to_center":[
+      {
+         "name":"7. septembra",
+         "code":"103111"
+      },
+      {
+         "name":"AMZS",
+         "code":"103031"
+      },
+      {
+         "name":"Agrokombinatska",
+         "code":"204211"
+      },
+      {
+         "name":"Agrokombinatska",
+         "code":"204213"
+      },
+      {
+         "name":"Ajdovščina",
+         "code":"600021"
+      },
+      {
+         "name":"Akademija",
+         "code":"503031"
+      },
+      {
+         "name":"Aleja",
+         "code":"803021"
+      },
+      {
+         "name":"Ambrožev trg",
+         "code":"502013"
+      },
+      {
+         "name":"Ambrus",
+         "code":"528151"
+      },
+      {
+         "name":"Andreja Bitenca",
+         "code":"804171"
+      },
+      {
+         "name":"Anžon",
+         "code":"999871"
+      },
+      {
+         "name":"Archinetova",
+         "code":"303061"
+      },
+      {
+         "name":"Astra",
+         "code":"101051"
+      },
+      {
+         "name":"Aškerčeva",
+         "code":"602051"
+      },
+      {
+         "name":"BARJE P+R",
+         "code":"603181"
+      },
+      {
+         "name":"BERIČEVO",
+         "code":"204171"
+      },
+      {
+         "name":"BESNICA obrač.",
+         "code":"405111"
+      },
+      {
+         "name":"BOKALCE",
+         "code":"704041"
+      },
+      {
+         "name":"BRNČIČEVA",
+         "code":"204121"
+      },
+      {
+         "name":"BROD",
+         "code":"804121"
+      },
+      {
+         "name":"BTC-ATLANTIS",
+         "code":"203251"
+      },
+      {
+         "name":"BTC-Emporium",
+         "code":"203141"
+      },
+      {
+         "name":"BTC-Merkur",
+         "code":"203241"
+      },
+      {
+         "name":"BTC-tržnica",
+         "code":"203121"
+      },
+      {
+         "name":"Baragova",
+         "code":"103211"
+      },
+      {
+         "name":"Barje",
+         "code":"604023"
+      },
+      {
+         "name":"Bavarski dvor",
+         "code":"600011"
+      },
+      {
+         "name":"Belica",
+         "code":"725091"
+      },
+      {
+         "name":"Belinka",
+         "code":"204141"
+      },
+      {
+         "name":"Benat",
+         "code":"546021"
+      },
+      {
+         "name":"Besnica",
+         "code":"405021"
+      },
+      {
+         "name":"Besnica ambulanta",
+         "code":"405051"
+      },
+      {
+         "name":"Besnica kamnolom",
+         "code":"405061"
+      },
+      {
+         "name":"Besnica šola",
+         "code":"405031"
+      },
+      {
+         "name":"Bevke",
+         "code":"765031"
+      },
+      {
+         "name":"Bežigrad",
+         "code":"101031"
+      },
+      {
+         "name":"Bilečanska",
+         "code":"403071"
+      },
+      {
+         "name":"Bistra",
+         "code":"756101"
+      },
+      {
+         "name":"Bizovik",
+         "code":"404121"
+      },
+      {
+         "name":"Blatna Brezovica",
+         "code":"765041"
+      },
+      {
+         "name":"Blaževo",
+         "code":"405041"
+      },
+      {
+         "name":"Bleiweisova",
+         "code":"701011"
+      },
+      {
+         "name":"Blekova vas",
+         "code":"707011"
+      },
+      {
+         "name":"Bobrova",
+         "code":"504121"
+      },
+      {
+         "name":"Boga vas",
+         "code":"508021"
+      },
+      {
+         "name":"Bolnica",
+         "code":"402041"
+      },
+      {
+         "name":"Bolnica P. Držaja",
+         "code":"802041"
+      },
+      {
+         "name":"Bonifacija",
+         "code":"703101"
+      },
+      {
+         "name":"Borovnica K",
+         "code":"756061"
+      },
+      {
+         "name":"Borovnica Merc.",
+         "code":"756071"
+      },
+      {
+         "name":"Borovnica most",
+         "code":"756051"
+      },
+      {
+         "name":"Borovnica ŽP P+R",
+         "code":"756131"
+      },
+      {
+         "name":"Božičeva",
+         "code":"103191"
+      },
+      {
+         "name":"Bratislavska",
+         "code":"203181"
+      },
+      {
+         "name":"Bratov Babnik",
+         "code":"803161"
+      },
+      {
+         "name":"Bratov Učakar",
+         "code":"803131"
+      },
+      {
+         "name":"Bratov Židan",
+         "code":"101061"
+      },
+      {
+         "name":"Brdo",
+         "code":"704023"
+      },
+      {
+         "name":"Breg pri Borovnici",
+         "code":"756041"
+      },
+      {
+         "name":"Brest",
+         "code":"615041"
+      },
+      {
+         "name":"Brezje pri Dobrovi",
+         "code":"715111"
+      },
+      {
+         "name":"Brezje pri Dobrovi And.",
+         "code":"715101"
+      },
+      {
+         "name":"Brglezov štradon",
+         "code":"614021"
+      },
+      {
+         "name":"Brinje",
+         "code":"103021"
+      },
+      {
+         "name":"Briše pri Polh.G.",
+         "code":"726021"
+      },
+      {
+         "name":"Briše pri Polh.G.Koroš.",
+         "code":"726031"
+      },
+      {
+         "name":"Briše pri Polh.G.M.Voda",
+         "code":"726041"
+      },
+      {
+         "name":"Brodarjev trg",
+         "code":"303071"
+      },
+      {
+         "name":"Brvace",
+         "code":"505091"
+      },
+      {
+         "name":"Bukovica Anzel",
+         "code":"826031"
+      },
+      {
+         "name":"Bukovica Plevevc",
+         "code":"826021"
+      },
+      {
+         "name":"Butajnova",
+         "code":"726071"
+      },
+      {
+         "name":"Butajnova Setnik",
+         "code":"726051"
+      },
+      {
+         "name":"Butajnova Čamernik",
+         "code":"726061"
+      },
+      {
+         "name":"C. STOŽICE P+R",
+         "code":"103173"
+      },
+      {
+         "name":"C. dveh cesarjev",
+         "code":"704161"
+      },
+      {
+         "name":"Cankarjev dom",
+         "code":"602011"
+      },
+      {
+         "name":"Capuder",
+         "code":"614041"
+      },
+      {
+         "name":"Center Zalog",
+         "code":"204181"
+      },
+      {
+         "name":"Cesta XV",
+         "code":"703021"
+      },
+      {
+         "name":"Cesta na Brod",
+         "code":"104091"
+      },
+      {
+         "name":"Cesta na Kope",
+         "code":"204351"
+      },
+      {
+         "name":"Cesta na Vevče",
+         "code":"304091"
+      },
+      {
+         "name":"Cesta na Vrhovce",
+         "code":"703221"
+      },
+      {
+         "name":"Cesta v Bizovik",
+         "code":"404021"
+      },
+      {
+         "name":"Cesta v Gorice",
+         "code":"704151"
+      },
+      {
+         "name":"Cesta v Kresnice",
+         "code":"204271"
+      },
+      {
+         "name":"Cesta v Zajčjo Dobravo",
+         "code":"204341"
+      },
+      {
+         "name":"Cesta v Zavoglje",
+         "code":"404071"
+      },
+      {
+         "name":"Cesta/Dobrepolju",
+         "code":"527011"
+      },
+      {
+         "name":"Chengdujska",
+         "code":"304041"
+      },
+      {
+         "name":"Cikava",
+         "code":"505081"
+      },
+      {
+         "name":"Cukrarna",
+         "code":"502021"
+      },
+      {
+         "name":"D. Brezovica Baša",
+         "code":"746021"
+      },
+      {
+         "name":"D. Brezovica Landovec",
+         "code":"746031"
+      },
+      {
+         "name":"D. MOST P+R",
+         "code":"704011"
+      },
+      {
+         "name":"D.vas pri Polh.G.",
+         "code":"725111"
+      },
+      {
+         "name":"DOMŽALE kolodvor",
+         "code":"105131"
+      },
+      {
+         "name":"DRAGOMELJ",
+         "code":"204231"
+      },
+      {
+         "name":"Debenc",
+         "code":"999861"
+      },
+      {
+         "name":"Dečja vas pri Zagradcu",
+         "code":"528091"
+      },
+      {
+         "name":"Dob/Šentvidu",
+         "code":"508011"
+      },
+      {
+         "name":"Dobravica K",
+         "code":"605031"
+      },
+      {
+         "name":"Dobrova",
+         "code":"725011"
+      },
+      {
+         "name":"Dobrova",
+         "code":"725013"
+      },
+      {
+         "name":"Dobrova Maček",
+         "code":"715081"
+      },
+      {
+         "name":"Dobrova P+R",
+         "code":"725141"
+      },
+      {
+         "name":"Dobrova Skodlar",
+         "code":"715091"
+      },
+      {
+         "name":"Dobrova graben",
+         "code":"715061"
+      },
+      {
+         "name":"Dobrova vodomet",
+         "code":"715071"
+      },
+      {
+         "name":"Dobrunje",
+         "code":"404031"
+      },
+      {
+         "name":"Dobrunje-2",
+         "code":"404131"
+      },
+      {
+         "name":"Dobrunjska c.",
+         "code":"404181"
+      },
+      {
+         "name":"Dobruša lipa",
+         "code":"825071"
+      },
+      {
+         "name":"Dol pri Borovnici Majer",
+         "code":"756081"
+      },
+      {
+         "name":"Dol pri Borovnici Pivk",
+         "code":"756091"
+      },
+      {
+         "name":"Dolgi most",
+         "code":"703111"
+      },
+      {
+         "name":"Dolgi most Rotar",
+         "code":"704051"
+      },
+      {
+         "name":"Dolnice",
+         "code":"804401"
+      },
+      {
+         "name":"Domžale",
+         "code":"105141"
+      },
+      {
+         "name":"Dornig",
+         "code":"614031"
+      },
+      {
+         "name":"Draga",
+         "code":"803221"
+      },
+      {
+         "name":"Dragomelj - 1",
+         "code":"204481"
+      },
+      {
+         "name":"Dragomer",
+         "code":"705011"
+      },
+      {
+         "name":"Drama",
+         "code":"602021"
+      },
+      {
+         "name":"Draveljska gmajna",
+         "code":"803151"
+      },
+      {
+         "name":"Dravlje",
+         "code":"803041"
+      },
+      {
+         "name":"Draževnik",
+         "code":"715011"
+      },
+      {
+         "name":"Drenikova",
+         "code":"802051"
+      },
+      {
+         "name":"Drenov Grič",
+         "code":"705051"
+      },
+      {
+         "name":"Drobnič",
+         "code":"535041"
+      },
+      {
+         "name":"Dvor",
+         "code":"804351"
+      },
+      {
+         "name":"Dvor pri Polh.G.",
+         "code":"725101"
+      },
+      {
+         "name":"Elma",
+         "code":"104061"
+      },
+      {
+         "name":"Emona",
+         "code":"403051"
+      },
+      {
+         "name":"Erbežnik",
+         "code":"745021"
+      },
+      {
+         "name":"FUŽINE P+R",
+         "code":"304051"
+      },
+      {
+         "name":"Friškovec",
+         "code":"301011"
+      },
+      {
+         "name":"G. Brezovica",
+         "code":"746041"
+      },
+      {
+         "name":"G.vas/Muljavi K",
+         "code":"567031"
+      },
+      {
+         "name":"GAMELJNE",
+         "code":"104221"
+      },
+      {
+         "name":"GD Gameljne",
+         "code":"104361"
+      },
+      {
+         "name":"GLINCE",
+         "code":"804511"
+      },
+      {
+         "name":"GROSUPLJE",
+         "code":"505143"
+      },
+      {
+         "name":"Gaberje pri Dob.Brvičar",
+         "code":"725041"
+      },
+      {
+         "name":"Gaberje pri Dobrovi",
+         "code":"725031"
+      },
+      {
+         "name":"Gabrovčec K",
+         "code":"567061"
+      },
+      {
+         "name":"Galjevica",
+         "code":"603161"
+      },
+      {
+         "name":"Ganter",
+         "code":"999831"
+      },
+      {
+         "name":"Gasilska brigada",
+         "code":"102031"
+      },
+      {
+         "name":"Gerbičeva",
+         "code":"603021"
+      },
+      {
+         "name":"Glinek/Škofljici",
+         "code":"515021"
+      },
+      {
+         "name":"Glogovica K",
+         "code":"507141"
+      },
+      {
+         "name":"Glonarjeva",
+         "code":"402051"
+      },
+      {
+         "name":"Golo",
+         "code":"605061"
+      },
+      {
+         "name":"Golouhova",
+         "code":"603151"
+      },
+      {
+         "name":"Goričane kopališče",
+         "code":"815201"
+      },
+      {
+         "name":"Goričane pod gradom",
+         "code":"815191"
+      },
+      {
+         "name":"Goričica pod Krimom",
+         "code":"756021"
+      },
+      {
+         "name":"Gorjančeva",
+         "code":"103091"
+      },
+      {
+         "name":"Gornje Poljane",
+         "code":"402061"
+      },
+      {
+         "name":"Gornji Rudnik",
+         "code":"504011"
+      },
+      {
+         "name":"Gornji trg",
+         "code":"602101"
+      },
+      {
+         "name":"Goropečnikova",
+         "code":"204491"
+      },
+      {
+         "name":"Gosposvetska",
+         "code":"700011"
+      },
+      {
+         "name":"Gostilna Kovač",
+         "code":"815101"
+      },
+      {
+         "name":"Gradišče 1",
+         "code":"515101"
+      },
+      {
+         "name":"Gradišče 2",
+         "code":"515111"
+      },
+      {
+         "name":"Gradišče 3",
+         "code":"515121"
+      },
+      {
+         "name":"Grintovec/Zagradcu",
+         "code":"528101"
+      },
+      {
+         "name":"Griže/Stični",
+         "code":"507091"
+      },
+      {
+         "name":"Grm",
+         "code":"508051"
+      },
+      {
+         "name":"Grosuplje",
+         "code":"505141"
+      },
+      {
+         "name":"Grosuplje Motel",
+         "code":"506011"
+      },
+      {
+         "name":"Grosuplje SM",
+         "code":"556011"
+      },
+      {
+         "name":"Grčarevec",
+         "code":"707041"
+      },
+      {
+         "name":"Grčarevski Vrh",
+         "code":"707043"
+      },
+      {
+         "name":"Hajdrihova",
+         "code":"602031"
+      },
+      {
+         "name":"Havptmance",
+         "code":"604041"
+      },
+      {
+         "name":"Hladilniška",
+         "code":"204311"
+      },
+      {
+         "name":"Hlebš",
+         "code":"405081"
+      },
+      {
+         "name":"Horjul",
+         "code":"716011"
+      },
+      {
+         "name":"Hrastenice",
+         "code":"725071"
+      },
+      {
+         "name":"Hrastje",
+         "code":"204061"
+      },
+      {
+         "name":"Hrastje pri Golem",
+         "code":"605071"
+      },
+      {
+         "name":"Hraše center",
+         "code":"816011"
+      },
+      {
+         "name":"Hraše vzhod",
+         "code":"816021"
+      },
+      {
+         "name":"Hraše zahod",
+         "code":"815131"
+      },
+      {
+         "name":"Hruševo",
+         "code":"725051"
+      },
+      {
+         "name":"Hruševska",
+         "code":"404111"
+      },
+      {
+         "name":"Hrušica",
+         "code":"404011"
+      },
+      {
+         "name":"Hrušica/Kalcah",
+         "code":"707033"
+      },
+      {
+         "name":"Hrvatski trg",
+         "code":"402011"
+      },
+      {
+         "name":"I. Kobilca",
+         "code":"703211"
+      },
+      {
+         "name":"I.C. Šiška",
+         "code":"103231"
+      },
+      {
+         "name":"IMP",
+         "code":"804161"
+      },
+      {
+         "name":"Ig",
+         "code":"625021"
+      },
+      {
+         "name":"Ig Petrol",
+         "code":"605081"
+      },
+      {
+         "name":"Ig mizarstvo",
+         "code":"605021"
+      },
+      {
+         "name":"Ihan Emona",
+         "code":"204421"
+      },
+      {
+         "name":"Ihan Flerin",
+         "code":"204401"
+      },
+      {
+         "name":"Ihan Termit",
+         "code":"204391"
+      },
+      {
+         "name":"Ihan farma",
+         "code":"204411"
+      },
+      {
+         "name":"Ilirska",
+         "code":"501011"
+      },
+      {
+         "name":"Ilovica",
+         "code":"603101"
+      },
+      {
+         "name":"Ivančna Gorica",
+         "code":"507031"
+      },
+      {
+         "name":"Ivančna Gorica ŠC",
+         "code":"507071"
+      },
+      {
+         "name":"Ivančna Gorica ŠC",
+         "code":"507073"
+      },
+      {
+         "name":"IŠKA VAS obrač.",
+         "code":"626011"
+      },
+      {
+         "name":"Iška Loka",
+         "code":"615011"
+      },
+      {
+         "name":"Iška vas",
+         "code":"625051"
+      },
+      {
+         "name":"Iška vas šola",
+         "code":"625061"
+      },
+      {
+         "name":"Iški most",
+         "code":"604011"
+      },
+      {
+         "name":"Ižanska",
+         "code":"603121"
+      },
+      {
+         "name":"Ižica",
+         "code":"604061"
+      },
+      {
+         "name":"JEZERO",
+         "code":"745061"
+      },
+      {
+         "name":"JEŽICA",
+         "code":"104033"
+      },
+      {
+         "name":"JEŽICA P+R",
+         "code":"104321"
+      },
+      {
+         "name":"Jadranska",
+         "code":"603011"
+      },
+      {
+         "name":"Jamnikarjeva",
+         "code":"703031"
+      },
+      {
+         "name":"Jana Husa",
+         "code":"403011"
+      },
+      {
+         "name":"Japelj",
+         "code":"744021"
+      },
+      {
+         "name":"Jarše",
+         "code":"203091"
+      },
+      {
+         "name":"Javor",
+         "code":"405011"
+      },
+      {
+         "name":"Javor-2",
+         "code":"425011"
+      },
+      {
+         "name":"Ježa",
+         "code":"104181"
+      },
+      {
+         "name":"Ježica",
+         "code":"104031"
+      },
+      {
+         "name":"Ježkova",
+         "code":"703201"
+      },
+      {
+         "name":"Jurečič",
+         "code":"614111"
+      },
+      {
+         "name":"Jurčkova",
+         "code":"504041"
+      },
+      {
+         "name":"KAMNA GORICA",
+         "code":"803181"
+      },
+      {
+         "name":"KOLODVOR",
+         "code":"300015"
+      },
+      {
+         "name":"KPL",
+         "code":"404051"
+      },
+      {
+         "name":"KS. Pirniče",
+         "code":"815031"
+      },
+      {
+         "name":"Kajakaška",
+         "code":"815111"
+      },
+      {
+         "name":"Kal/Ambrusu",
+         "code":"528131"
+      },
+      {
+         "name":"Kal/Ambrusu K",
+         "code":"528121"
+      },
+      {
+         "name":"Kalce/Logatcu",
+         "code":"707031"
+      },
+      {
+         "name":"Kališnikov trg",
+         "code":"104021"
+      },
+      {
+         "name":"Kamna Gorica",
+         "code":"803183"
+      },
+      {
+         "name":"Kamni Vrh",
+         "code":"528141"
+      },
+      {
+         "name":"Kamnik pod Krimom",
+         "code":"745091"
+      },
+      {
+         "name":"Kamnik pod Krimom K.",
+         "code":"745081"
+      },
+      {
+         "name":"Kamnogoriška",
+         "code":"804391"
+      },
+      {
+         "name":"Kardeljeva ploščad",
+         "code":"102091"
+      },
+      {
+         "name":"Kavčičeva",
+         "code":"203051"
+      },
+      {
+         "name":"Kašeljska",
+         "code":"304161"
+      },
+      {
+         "name":"Kino Šiška",
+         "code":"802021"
+      },
+      {
+         "name":"Klinični center",
+         "code":"402031"
+      },
+      {
+         "name":"Kneza Koclja",
+         "code":"803081"
+      },
+      {
+         "name":"Kodeljevo",
+         "code":"403021"
+      },
+      {
+         "name":"Kodeljevo",
+         "code":"403023"
+      },
+      {
+         "name":"Kodrova",
+         "code":"203101"
+      },
+      {
+         "name":"Kolodvor",
+         "code":"300011"
+      },
+      {
+         "name":"Kolodvor Črnuče",
+         "code":"104101"
+      },
+      {
+         "name":"Komanija",
+         "code":"715021"
+      },
+      {
+         "name":"Kompas",
+         "code":"803031"
+      },
+      {
+         "name":"Koprska",
+         "code":"603041"
+      },
+      {
+         "name":"Koseze",
+         "code":"803141"
+      },
+      {
+         "name":"Koseze",
+         "code":"826111"
+      },
+      {
+         "name":"Koseze Stare",
+         "code":"826121"
+      },
+      {
+         "name":"Kosmačeva",
+         "code":"804081"
+      },
+      {
+         "name":"Kot",
+         "code":"625041"
+      },
+      {
+         "name":"Kovinarska",
+         "code":"803211"
+      },
+      {
+         "name":"Kozarje",
+         "code":"704101"
+      },
+      {
+         "name":"Kozarje GD",
+         "code":"714011"
+      },
+      {
+         "name":"Kozarje gmajna",
+         "code":"714021"
+      },
+      {
+         "name":"Kozler",
+         "code":"614081"
+      },
+      {
+         "name":"Kožljevec",
+         "code":"535061"
+      },
+      {
+         "name":"Kranjčeva",
+         "code":"203211"
+      },
+      {
+         "name":"Krimska",
+         "code":"603031"
+      },
+      {
+         "name":"Kristalna palača",
+         "code":"203111"
+      },
+      {
+         "name":"Krivec",
+         "code":"804411"
+      },
+      {
+         "name":"Križanke",
+         "code":"602061"
+      },
+      {
+         "name":"Križišče Sostro",
+         "code":"404081"
+      },
+      {
+         "name":"Križišče Sostro",
+         "code":"404083"
+      },
+      {
+         "name":"Krožna pot",
+         "code":"404101"
+      },
+      {
+         "name":"Kurešček K",
+         "code":"606011"
+      },
+      {
+         "name":"Kurja vas/Šentjoštu",
+         "code":"727011"
+      },
+      {
+         "name":"Kužljevec K",
+         "code":"528111"
+      },
+      {
+         "name":"LETALIŠKA P+R",
+         "code":"204051"
+      },
+      {
+         "name":"LITOSTROJ",
+         "code":"103201"
+      },
+      {
+         "name":"LITOSTROJSKA",
+         "code":"803053"
+      },
+      {
+         "name":"Lahova pot",
+         "code":"603111"
+      },
+      {
+         "name":"Lanišče",
+         "code":"406071"
+      },
+      {
+         "name":"Lavrica",
+         "code":"504091"
+      },
+      {
+         "name":"Lavrica pri Malči",
+         "code":"504081"
+      },
+      {
+         "name":"Ledena dvorana Zalog",
+         "code":"204301"
+      },
+      {
+         "name":"Leskoškova",
+         "code":"204011"
+      },
+      {
+         "name":"Lesno Brdo",
+         "code":"705041"
+      },
+      {
+         "name":"Letališka",
+         "code":"204041"
+      },
+      {
+         "name":"Ligojna K",
+         "code":"776041"
+      },
+      {
+         "name":"Lipe",
+         "code":"614071"
+      },
+      {
+         "name":"Litostroj",
+         "code":"103203"
+      },
+      {
+         "name":"Litostrojska",
+         "code":"803051"
+      },
+      {
+         "name":"Livada",
+         "code":"603091"
+      },
+      {
+         "name":"Ljubgojna",
+         "code":"716021"
+      },
+      {
+         "name":"Ljubljana AP",
+         "code":"300013"
+      },
+      {
+         "name":"Ljubljanska",
+         "code":"105121"
+      },
+      {
+         "name":"Ljubljanske brigade",
+         "code":"803061"
+      },
+      {
+         "name":"Log",
+         "code":"603251"
+      },
+      {
+         "name":"Log pri Brez.Mole",
+         "code":"705021"
+      },
+      {
+         "name":"Log pri Brez.vas",
+         "code":"705031"
+      },
+      {
+         "name":"Log pri Polh.G.",
+         "code":"725081"
+      },
+      {
+         "name":"Logatec",
+         "code":"707021"
+      },
+      {
+         "name":"Logatec Krpan",
+         "code":"706041"
+      },
+      {
+         "name":"Lukovica pri Brezovici",
+         "code":"704091"
+      },
+      {
+         "name":"Lutkovno gl.",
+         "code":"501031"
+      },
+      {
+         "name":"M. Lipljene",
+         "code":"546081"
+      },
+      {
+         "name":"M. St. vas",
+         "code":"535021"
+      },
+      {
+         "name":"M. vas pri Grosupljem",
+         "code":"546051"
+      },
+      {
+         "name":"M.Hudo",
+         "code":"507021"
+      },
+      {
+         "name":"M.Ilova GORA",
+         "code":"526061"
+      },
+      {
+         "name":"M.Mlačevo",
+         "code":"526011"
+      },
+      {
+         "name":"M.Račna",
+         "code":"526041"
+      },
+      {
+         "name":"MALI LIPOGLAV",
+         "code":"415061"
+      },
+      {
+         "name":"MEDVODE",
+         "code":"805023"
+      },
+      {
+         "name":"MEDVODE nas.",
+         "code":"805041"
+      },
+      {
+         "name":"MESTNI LOG",
+         "code":"604031"
+      },
+      {
+         "name":"Mali vrh",
+         "code":"505041"
+      },
+      {
+         "name":"Marinča vas",
+         "code":"528041"
+      },
+      {
+         "name":"Maroltova",
+         "code":"103161"
+      },
+      {
+         "name":"Martinova",
+         "code":"804131"
+      },
+      {
+         "name":"Matena",
+         "code":"615031"
+      },
+      {
+         "name":"Mačkov graben",
+         "code":"736011"
+      },
+      {
+         "name":"Medno",
+         "code":"804071"
+      },
+      {
+         "name":"Medvode",
+         "code":"805021"
+      },
+      {
+         "name":"Medvoška a.p.",
+         "code":"805011"
+      },
+      {
+         "name":"Mercator",
+         "code":"102081"
+      },
+      {
+         "name":"Mihov štradon",
+         "code":"503051"
+      },
+      {
+         "name":"Mirje",
+         "code":"602071"
+      },
+      {
+         "name":"Mostiček",
+         "code":"745031"
+      },
+      {
+         "name":"Mostovna",
+         "code":"102061"
+      },
+      {
+         "name":"Mrzlo polje",
+         "code":"567011"
+      },
+      {
+         "name":"Muljava",
+         "code":"567041"
+      },
+      {
+         "name":"Murgle",
+         "code":"603061"
+      },
+      {
+         "name":"Murkova",
+         "code":"804211"
+      },
+      {
+         "name":"N. STOŽICE P+R",
+         "code":"103081"
+      },
+      {
+         "name":"NOT. GORICE",
+         "code":"745043"
+      },
+      {
+         "name":"NOVE JARŠE",
+         "code":"203171"
+      },
+      {
+         "name":"NS RUDNIK",
+         "code":"504061"
+      },
+      {
+         "name":"NS Rudnik",
+         "code":"504051"
+      },
+      {
+         "name":"Na Gmajni",
+         "code":"615021"
+      },
+      {
+         "name":"Na Gmajnici",
+         "code":"704061"
+      },
+      {
+         "name":"Na Pili",
+         "code":"999901"
+      },
+      {
+         "name":"Na jami",
+         "code":"802031"
+      },
+      {
+         "name":"Na klancu",
+         "code":"804091"
+      },
+      {
+         "name":"Na Žalah",
+         "code":"203231"
+      },
+      {
+         "name":"Nadgorica",
+         "code":"204131"
+      },
+      {
+         "name":"Notranje Gorice",
+         "code":"745041"
+      },
+      {
+         "name":"Nova vas/Žireh",
+         "code":"999821"
+      },
+      {
+         "name":"Novaki",
+         "code":"746051"
+      },
+      {
+         "name":"Nove Jarše",
+         "code":"203161"
+      },
+      {
+         "name":"Nove Žale",
+         "code":"203071"
+      },
+      {
+         "name":"Novo Polje",
+         "code":"204101"
+      },
+      {
+         "name":"Novo naselje",
+         "code":"805031"
+      },
+      {
+         "name":"Noč",
+         "code":"999851"
+      },
+      {
+         "name":"Nusdorferjeva",
+         "code":"303081"
+      },
+      {
+         "name":"Ob daljnovodu",
+         "code":"804111"
+      },
+      {
+         "name":"Obrtna cona",
+         "code":"104081"
+      },
+      {
+         "name":"Omersova",
+         "code":"804201"
+      },
+      {
+         "name":"Opekarska",
+         "code":"603171"
+      },
+      {
+         "name":"Orel/Žireh",
+         "code":"999891"
+      },
+      {
+         "name":"Osenjakova",
+         "code":"304021"
+      },
+      {
+         "name":"Ostrovrhar",
+         "code":"204361"
+      },
+      {
+         "name":"Oval",
+         "code":"804341"
+      },
+      {
+         "name":"OŠ Domžale",
+         "code":"105111"
+      },
+      {
+         "name":"OŠ Jezero",
+         "code":"745101"
+      },
+      {
+         "name":"OŠ Maksa Pečarja",
+         "code":"104151"
+      },
+      {
+         "name":"OŠ Sostro",
+         "code":"404161"
+      },
+      {
+         "name":"PODUTIK",
+         "code":"804221"
+      },
+      {
+         "name":"POLHOV GRADEC",
+         "code":"726011"
+      },
+      {
+         "name":"POLICA/VIŠ. G.",
+         "code":"535091"
+      },
+      {
+         "name":"PRŽAN",
+         "code":"804181"
+      },
+      {
+         "name":"Pako",
+         "code":"756031"
+      },
+      {
+         "name":"Pance",
+         "code":"415051"
+      },
+      {
+         "name":"Park varne mobilnosti",
+         "code":"603201"
+      },
+      {
+         "name":"Parmova",
+         "code":"101021"
+      },
+      {
+         "name":"Pece K",
+         "code":"546041"
+      },
+      {
+         "name":"Perovo",
+         "code":"535011"
+      },
+      {
+         "name":"Peruzzijeva",
+         "code":"503041"
+      },
+      {
+         "name":"Petačev graben",
+         "code":"736021"
+      },
+      {
+         "name":"Petrol",
+         "code":"304111"
+      },
+      {
+         "name":"Peč pri Polici",
+         "code":"535081"
+      },
+      {
+         "name":"Pijava Gorica",
+         "code":"515031"
+      },
+      {
+         "name":"Plečnikova cerkev",
+         "code":"614011"
+      },
+      {
+         "name":"Plešivica/Logu grad",
+         "code":"765021"
+      },
+      {
+         "name":"Plešivica/Logu spomenik",
+         "code":"765011"
+      },
+      {
+         "name":"Plešičeva",
+         "code":"803121"
+      },
+      {
+         "name":"Pod Debnim vrhom",
+         "code":"204281"
+      },
+      {
+         "name":"Pod Golovcem",
+         "code":"403031"
+      },
+      {
+         "name":"Pod Hribom",
+         "code":"504071"
+      },
+      {
+         "name":"Pod Kamno Gorico",
+         "code":"804193"
+      },
+      {
+         "name":"Pod Kamno gorico",
+         "code":"804191"
+      },
+      {
+         "name":"Pod Rožnikom",
+         "code":"702011"
+      },
+      {
+         "name":"Pod Sivnikom",
+         "code":"404171"
+      },
+      {
+         "name":"Pod Urhom",
+         "code":"404141"
+      },
+      {
+         "name":"Pod gozdom",
+         "code":"505111"
+      },
+      {
+         "name":"Podgora",
+         "code":"804031"
+      },
+      {
+         "name":"Podgora pri Verdu",
+         "code":"756111"
+      },
+      {
+         "name":"Podgorica",
+         "code":"204221"
+      },
+      {
+         "name":"Podgozd",
+         "code":"605041"
+      },
+      {
+         "name":"Podgrad",
+         "code":"204261"
+      },
+      {
+         "name":"Podlesec/Žireh",
+         "code":"999881"
+      },
+      {
+         "name":"Podlipa",
+         "code":"776111"
+      },
+      {
+         "name":"Podlipa Kovtrov z.",
+         "code":"776121"
+      },
+      {
+         "name":"Podlipa Podlogar",
+         "code":"776081"
+      },
+      {
+         "name":"Podlipa Stope",
+         "code":"776061"
+      },
+      {
+         "name":"Podlipa Vičič",
+         "code":"776101"
+      },
+      {
+         "name":"Podlipa Zukancov z.",
+         "code":"777021"
+      },
+      {
+         "name":"Podlipa hrast",
+         "code":"776071"
+      },
+      {
+         "name":"Podlipa pri tran.",
+         "code":"776091"
+      },
+      {
+         "name":"Podlipa Županov z.",
+         "code":"777011"
+      },
+      {
+         "name":"Podlipoglav",
+         "code":"415021"
+      },
+      {
+         "name":"Podmilščakova",
+         "code":"102051"
+      },
+      {
+         "name":"Podmornica",
+         "code":"703051"
+      },
+      {
+         "name":"Podolnica",
+         "code":"715121"
+      },
+      {
+         "name":"Podpeč",
+         "code":"745121"
+      },
+      {
+         "name":"Podpeč",
+         "code":"745051"
+      },
+      {
+         "name":"Podpeč 1",
+         "code":"745111"
+      },
+      {
+         "name":"Podpeč/Lj. Jereb",
+         "code":"745071"
+      },
+      {
+         "name":"Podreber/Polh.G.",
+         "code":"725121"
+      },
+      {
+         "name":"Podsmreka GD",
+         "code":"715031"
+      },
+      {
+         "name":"Podsmreka Rotar",
+         "code":"715041"
+      },
+      {
+         "name":"Podsmreka pri Gorjancu",
+         "code":"715051"
+      },
+      {
+         "name":"Podsmreka pri Višnji G.",
+         "code":"506041"
+      },
+      {
+         "name":"Podvozna pot",
+         "code":"704181"
+      },
+      {
+         "name":"Pohorskega bataljona",
+         "code":"103061"
+      },
+      {
+         "name":"Polanškova",
+         "code":"104121"
+      },
+      {
+         "name":"Poliklinika",
+         "code":"402021"
+      },
+      {
+         "name":"Poljanska",
+         "code":"502011"
+      },
+      {
+         "name":"Polje",
+         "code":"304071"
+      },
+      {
+         "name":"Polje obračališče",
+         "code":"825031"
+      },
+      {
+         "name":"Polje-kolodvor",
+         "code":"304081"
+      },
+      {
+         "name":"Polževo K",
+         "code":"507011"
+      },
+      {
+         "name":"Ponova vas",
+         "code":"546031"
+      },
+      {
+         "name":"Pot Rdečega križa",
+         "code":"703191"
+      },
+      {
+         "name":"Pot heroja Trtnika",
+         "code":"404191"
+      },
+      {
+         "name":"Pot na Fužine",
+         "code":"303051"
+      },
+      {
+         "name":"Pot na Rakovo jelšo",
+         "code":"603071"
+      },
+      {
+         "name":"Pot v Hrastovec",
+         "code":"104141"
+      },
+      {
+         "name":"Pot v Smrečje",
+         "code":"104131"
+      },
+      {
+         "name":"Pot v mejah",
+         "code":"204291"
+      },
+      {
+         "name":"Povodje",
+         "code":"825011"
+      },
+      {
+         "name":"Pošta",
+         "code":"601011"
+      },
+      {
+         "name":"Pošta Dobrunje",
+         "code":"404041"
+      },
+      {
+         "name":"Praproče pri Temenici",
+         "code":"508071"
+      },
+      {
+         "name":"Predole K",
+         "code":"526021"
+      },
+      {
+         "name":"Predstruge",
+         "code":"517031"
+      },
+      {
+         "name":"Preglov trg",
+         "code":"304011"
+      },
+      {
+         "name":"Prekmurska",
+         "code":"202021"
+      },
+      {
+         "name":"Prelog",
+         "code":"204431"
+      },
+      {
+         "name":"Prelog Mngan",
+         "code":"204441"
+      },
+      {
+         "name":"Preserje pod Krimom",
+         "code":"746011"
+      },
+      {
+         "name":"Preska",
+         "code":"815151"
+      },
+      {
+         "name":"Prevalje pod Krimom",
+         "code":"756011"
+      },
+      {
+         "name":"Prežganje",
+         "code":"406031"
+      },
+      {
+         "name":"Prežganje šola",
+         "code":"406041"
+      },
+      {
+         "name":"Pri Dogonivar",
+         "code":"415071"
+      },
+      {
+         "name":"Pri Dolencu",
+         "code":"415091"
+      },
+      {
+         "name":"Pri Maranzu",
+         "code":"604051"
+      },
+      {
+         "name":"Pri Poku",
+         "code":"704081"
+      },
+      {
+         "name":"Primožev ovinek",
+         "code":"415081"
+      },
+      {
+         "name":"Primožičeva",
+         "code":"104113"
+      },
+      {
+         "name":"Privoz",
+         "code":"602111"
+      },
+      {
+         "name":"Prušnikova",
+         "code":"804021"
+      },
+      {
+         "name":"Pržanec",
+         "code":"804231"
+      },
+      {
+         "name":"Puhova",
+         "code":"103041"
+      },
+      {
+         "name":"RAKITNA obrač.",
+         "code":"746063"
+      },
+      {
+         "name":"RUDNIK",
+         "code":"504031"
+      },
+      {
+         "name":"Radna",
+         "code":"704071"
+      },
+      {
+         "name":"Radohova vas/Šentvidu",
+         "code":"508041"
+      },
+      {
+         "name":"Rakitna",
+         "code":"746061"
+      },
+      {
+         "name":"Rakovnik",
+         "code":"503021"
+      },
+      {
+         "name":"Rakovnik pri Sori",
+         "code":"815211"
+      },
+      {
+         "name":"Rast",
+         "code":"403061"
+      },
+      {
+         "name":"Razdrto",
+         "code":"505051"
+      },
+      {
+         "name":"Razori K",
+         "code":"714041"
+      },
+      {
+         "name":"Razori Rogovilc",
+         "code":"714031"
+      },
+      {
+         "name":"Razstavišče",
+         "code":"100021"
+      },
+      {
+         "name":"Račeva",
+         "code":"999841"
+      },
+      {
+         "name":"Rašica",
+         "code":"104211"
+      },
+      {
+         "name":"Reaktor",
+         "code":"204161"
+      },
+      {
+         "name":"Reber pri Škofljici",
+         "code":"505021"
+      },
+      {
+         "name":"Repnje Benk",
+         "code":"825041"
+      },
+      {
+         "name":"Repnje kapelica",
+         "code":"825061"
+      },
+      {
+         "name":"Repnje samostan",
+         "code":"825051"
+      },
+      {
+         "name":"Rogovilc",
+         "code":"104111"
+      },
+      {
+         "name":"Rožičeva",
+         "code":"203021"
+      },
+      {
+         "name":"Rožna dolina",
+         "code":"703011"
+      },
+      {
+         "name":"Rudnik",
+         "code":"504033"
+      },
+      {
+         "name":"Rusjanov trg",
+         "code":"304031"
+      },
+      {
+         "name":"Ruski car",
+         "code":"103131"
+      },
+      {
+         "name":"Rutar",
+         "code":"614061"
+      },
+      {
+         "name":"SAVLJE",
+         "code":"104011"
+      },
+      {
+         "name":"SORA obrač.",
+         "code":"816051"
+      },
+      {
+         "name":"SOSTRO",
+         "code":"404091"
+      },
+      {
+         "name":"STANEŽIČE P+R",
+         "code":"804241"
+      },
+      {
+         "name":"STANEŽIČE nas.",
+         "code":"804361"
+      },
+      {
+         "name":"Sadinja vas",
+         "code":"415011"
+      },
+      {
+         "name":"Samova",
+         "code":"102011"
+      },
+      {
+         "name":"Sap",
+         "code":"505071"
+      },
+      {
+         "name":"Saturnus",
+         "code":"204201"
+      },
+      {
+         "name":"Sava",
+         "code":"104051"
+      },
+      {
+         "name":"Savske stolpnice",
+         "code":"202031"
+      },
+      {
+         "name":"Savsko naselje",
+         "code":"202041"
+      },
+      {
+         "name":"Selo",
+         "code":"415041"
+      },
+      {
+         "name":"Selo Mali Dunaj",
+         "code":"826101"
+      },
+      {
+         "name":"Selo pri Radohovi vasi",
+         "code":"508061"
+      },
+      {
+         "name":"Selo pri Vodicah",
+         "code":"826051"
+      },
+      {
+         "name":"Silos",
+         "code":"304131"
+      },
+      {
+         "name":"Sinja Gorica",
+         "code":"705061"
+      },
+      {
+         "name":"Sinja Gorica avt.",
+         "code":"705073"
+      },
+      {
+         "name":"Sinja Gorica avt.",
+         "code":"705071"
+      },
+      {
+         "name":"Skaručna",
+         "code":"825021"
+      },
+      {
+         "name":"Slovenija avto",
+         "code":"803011"
+      },
+      {
+         "name":"Slovenijales",
+         "code":"204111"
+      },
+      {
+         "name":"Smelt",
+         "code":"103071"
+      },
+      {
+         "name":"Smlednik šola",
+         "code":"815121"
+      },
+      {
+         "name":"Smolnik Praprotnik",
+         "code":"737011"
+      },
+      {
+         "name":"Smolnik Setnik",
+         "code":"736051"
+      },
+      {
+         "name":"Smolnik Zalog",
+         "code":"736041"
+      },
+      {
+         "name":"Smolnik nad Hribom",
+         "code":"737021"
+      },
+      {
+         "name":"Smolnik žaga",
+         "code":"736031"
+      },
+      {
+         "name":"Smrekarjevo",
+         "code":"406051"
+      },
+      {
+         "name":"Smrečje/Vrh.pri Kapelici",
+         "code":"777051"
+      },
+      {
+         "name":"Smrečje/Vrhniko",
+         "code":"777061"
+      },
+      {
+         "name":"Smrečje/Vrhniko Samija",
+         "code":"777031"
+      },
+      {
+         "name":"Smrečje/Vrhniko pri Mihu",
+         "code":"777041"
+      },
+      {
+         "name":"Smrečje/Vrhniko vrh",
+         "code":"999911"
+      },
+      {
+         "name":"Smrjene",
+         "code":"515041"
+      },
+      {
+         "name":"Smrjene 1",
+         "code":"515091"
+      },
+      {
+         "name":"Smrjene 2",
+         "code":"515081"
+      },
+      {
+         "name":"Smrjene 3",
+         "code":"515071"
+      },
+      {
+         "name":"Smrjene 4",
+         "code":"515061"
+      },
+      {
+         "name":"Sneberje",
+         "code":"204071"
+      },
+      {
+         "name":"Sneberska",
+         "code":"204321"
+      },
+      {
+         "name":"Snoj",
+         "code":"614091"
+      },
+      {
+         "name":"Sora",
+         "code":"816041"
+      },
+      {
+         "name":"Sostro",
+         "code":"404093"
+      },
+      {
+         "name":"Sostro - 2",
+         "code":"404201"
+      },
+      {
+         "name":"Sp. Gameljne 1",
+         "code":"104331"
+      },
+      {
+         "name":"Sp. Gameljne 2",
+         "code":"104341"
+      },
+      {
+         "name":"Sp. Gameljne 3",
+         "code":"104351"
+      },
+      {
+         "name":"Sp. Pirniče",
+         "code":"815021"
+      },
+      {
+         "name":"Sp. Slivnica",
+         "code":"536031"
+      },
+      {
+         "name":"Spar",
+         "code":"803171"
+      },
+      {
+         "name":"Spodnji Rudnik",
+         "code":"504021"
+      },
+      {
+         "name":"Sr.vas pri Polh.G.",
+         "code":"725131"
+      },
+      {
+         "name":"Središka",
+         "code":"202091"
+      },
+      {
+         "name":"St.Vrhnika K",
+         "code":"776031"
+      },
+      {
+         "name":"St.trg/Višnji G.",
+         "code":"506031"
+      },
+      {
+         "name":"Stadion",
+         "code":"102041"
+      },
+      {
+         "name":"Stadion Domžale",
+         "code":"204461"
+      },
+      {
+         "name":"Staje",
+         "code":"625031"
+      },
+      {
+         "name":"Stanežiče",
+         "code":"804061"
+      },
+      {
+         "name":"Stara Ježica",
+         "code":"104371"
+      },
+      {
+         "name":"Stara cerkev",
+         "code":"802011"
+      },
+      {
+         "name":"Stara pošta",
+         "code":"505101"
+      },
+      {
+         "name":"Stična K",
+         "code":"507051"
+      },
+      {
+         "name":"Stična KZ",
+         "code":"507041"
+      },
+      {
+         "name":"Stožice",
+         "code":"103101"
+      },
+      {
+         "name":"Strahomer",
+         "code":"626021"
+      },
+      {
+         "name":"Streliška",
+         "code":"502031"
+      },
+      {
+         "name":"Strelišče",
+         "code":"503011"
+      },
+      {
+         "name":"Studenec",
+         "code":"304061"
+      },
+      {
+         "name":"Suhi Dol/Planino",
+         "code":"727021"
+      },
+      {
+         "name":"Svetje",
+         "code":"835031"
+      },
+      {
+         "name":"Svetčeva",
+         "code":"702031"
+      },
+      {
+         "name":"SŠ Domžale",
+         "code":"105101"
+      },
+      {
+         "name":"TOMAČEVO",
+         "code":"203081"
+      },
+      {
+         "name":"TRNOVO",
+         "code":"602121"
+      },
+      {
+         "name":"TUJI GRM",
+         "code":"406081"
+      },
+      {
+         "name":"Tabor",
+         "code":"804101"
+      },
+      {
+         "name":"Tacen",
+         "code":"804151"
+      },
+      {
+         "name":"Tacenski most",
+         "code":"804141"
+      },
+      {
+         "name":"Tavčarjeva",
+         "code":"500011"
+      },
+      {
+         "name":"Tbilisijska",
+         "code":"603141"
+      },
+      {
+         "name":"Tbilisijska",
+         "code":"603143"
+      },
+      {
+         "name":"Tehnounion",
+         "code":"803071"
+      },
+      {
+         "name":"Temenica",
+         "code":"508081"
+      },
+      {
+         "name":"Tiki",
+         "code":"802061"
+      },
+      {
+         "name":"Tinčk",
+         "code":"405101"
+      },
+      {
+         "name":"Tivoli",
+         "code":"801011"
+      },
+      {
+         "name":"Tobačna",
+         "code":"602041"
+      },
+      {
+         "name":"Tomačevska",
+         "code":"203031"
+      },
+      {
+         "name":"Tomažičeva",
+         "code":"603211"
+      },
+      {
+         "name":"Tomišelj",
+         "code":"615061"
+      },
+      {
+         "name":"Tomišelj A",
+         "code":"615071"
+      },
+      {
+         "name":"Tomišelj K",
+         "code":"615051"
+      },
+      {
+         "name":"Toplarna",
+         "code":"103011"
+      },
+      {
+         "name":"Topniška",
+         "code":"102021"
+      },
+      {
+         "name":"Tovarna Lek",
+         "code":"103051"
+      },
+      {
+         "name":"Tovorni kolodvor",
+         "code":"203061"
+      },
+      {
+         "name":"Trata",
+         "code":"804011"
+      },
+      {
+         "name":"Trbeže",
+         "code":"204251"
+      },
+      {
+         "name":"Trebeljevo",
+         "code":"406021"
+      },
+      {
+         "name":"Troščine",
+         "code":"535051"
+      },
+      {
+         "name":"Tržnica Koseze",
+         "code":"803101"
+      },
+      {
+         "name":"Tržnica Moste",
+         "code":"303011"
+      },
+      {
+         "name":"Utik",
+         "code":"826041"
+      },
+      {
+         "name":"V. Lese",
+         "code":"528031"
+      },
+      {
+         "name":"V. Ligojna",
+         "code":"776051"
+      },
+      {
+         "name":"V. Lipljene",
+         "code":"546071"
+      },
+      {
+         "name":"V. Loka pri Viš. G.",
+         "code":"556051"
+      },
+      {
+         "name":"V. Mlačevo",
+         "code":"556103"
+      },
+      {
+         "name":"V. Mlačevo",
+         "code":"556101"
+      },
+      {
+         "name":"V. Mlačevo ŽP",
+         "code":"556031"
+      },
+      {
+         "name":"V. St. vas",
+         "code":"535031"
+      },
+      {
+         "name":"V.Račna",
+         "code":"526031"
+      },
+      {
+         "name":"VEVČE",
+         "code":"304101"
+      },
+      {
+         "name":"VODICE",
+         "code":"826011"
+      },
+      {
+         "name":"Valburga",
+         "code":"815091"
+      },
+      {
+         "name":"Vaše",
+         "code":"815181"
+      },
+      {
+         "name":"Veliki Lipoglav",
+         "code":"415031"
+      },
+      {
+         "name":"Veliki štradon",
+         "code":"603081"
+      },
+      {
+         "name":"Verd K",
+         "code":"756121"
+      },
+      {
+         "name":"Verje",
+         "code":"835011"
+      },
+      {
+         "name":"Vesca",
+         "code":"826061"
+      },
+      {
+         "name":"Vevče Papirnica",
+         "code":"304121"
+      },
+      {
+         "name":"Večna pot",
+         "code":"703181"
+      },
+      {
+         "name":"Viadukt",
+         "code":"202011"
+      },
+      {
+         "name":"Videm pri Ljubljani",
+         "code":"204381"
+      },
+      {
+         "name":"Videm/Dobrepolju",
+         "code":"517041"
+      },
+      {
+         "name":"Vikrče",
+         "code":"815011"
+      },
+      {
+         "name":"Vir pri Stični",
+         "code":"507061"
+      },
+      {
+         "name":"Visoko/Kureščkom",
+         "code":"606031"
+      },
+      {
+         "name":"Vič",
+         "code":"703091"
+      },
+      {
+         "name":"Vič Glince",
+         "code":"703081"
+      },
+      {
+         "name":"Viško polje",
+         "code":"703041"
+      },
+      {
+         "name":"Višnja Gora",
+         "code":"506021"
+      },
+      {
+         "name":"Vižmarje",
+         "code":"804251"
+      },
+      {
+         "name":"Vnajnarje",
+         "code":"405091"
+      },
+      {
+         "name":"Vodice OŠ",
+         "code":"826091"
+      },
+      {
+         "name":"Vodovodna",
+         "code":"102071"
+      },
+      {
+         "name":"Vojsko",
+         "code":"826081"
+      },
+      {
+         "name":"Volavlje",
+         "code":"406061"
+      },
+      {
+         "name":"Vrbljene",
+         "code":"625011"
+      },
+      {
+         "name":"Vrh nad Želimljami 1",
+         "code":"516061"
+      },
+      {
+         "name":"Vrh nad Želimljami 2",
+         "code":"516071"
+      },
+      {
+         "name":"Vrh nad Želimljami GD",
+         "code":"516051"
+      },
+      {
+         "name":"Vrhnika",
+         "code":"706011"
+      },
+      {
+         "name":"Vrhnika Jazon",
+         "code":"705091"
+      },
+      {
+         "name":"Vrhnika OŠ AM Slomška",
+         "code":"999091"
+      },
+      {
+         "name":"Vrhnika Voljč.",
+         "code":"776021"
+      },
+      {
+         "name":"Vrhnika hrib",
+         "code":"706021"
+      },
+      {
+         "name":"Vrhnika samop.",
+         "code":"776011"
+      },
+      {
+         "name":"Vrhnika vrt.",
+         "code":"705081"
+      },
+      {
+         "name":"Vrhovci",
+         "code":"704031"
+      },
+      {
+         "name":"Vrzdenec",
+         "code":"716041"
+      },
+      {
+         "name":"Yulon",
+         "code":"203191"
+      },
+      {
+         "name":"ZADOBROVA",
+         "code":"204081"
+      },
+      {
+         "name":"ZALOG",
+         "code":"204313"
+      },
+      {
+         "name":"ZAPOTOK",
+         "code":"606051"
+      },
+      {
+         "name":"ZAPOTOK obr.",
+         "code":"606001"
+      },
+      {
+         "name":"ZD Polje",
+         "code":"304141"
+      },
+      {
+         "name":"ZELENA JAMA",
+         "code":"202051"
+      },
+      {
+         "name":"ZG. Pirniče",
+         "code":"815041"
+      },
+      {
+         "name":"Za travniki",
+         "code":"204371"
+      },
+      {
+         "name":"Zaboršt",
+         "code":"204451"
+      },
+      {
+         "name":"Zadobrova",
+         "code":"204083"
+      },
+      {
+         "name":"Zadvor",
+         "code":"404061"
+      },
+      {
+         "name":"Zadvor pri Grosupljem",
+         "code":"546011"
+      },
+      {
+         "name":"Zadvor-2",
+         "code":"404151"
+      },
+      {
+         "name":"Zagorica/Dobrepolju",
+         "code":"517101"
+      },
+      {
+         "name":"Zagradec/Krki",
+         "code":"528051"
+      },
+      {
+         "name":"Zaklanec/Horjulu",
+         "code":"715131"
+      },
+      {
+         "name":"Zakrajškova",
+         "code":"804501"
+      },
+      {
+         "name":"Zaloška",
+         "code":"303021"
+      },
+      {
+         "name":"Zaplana",
+         "code":"706031"
+      },
+      {
+         "name":"Zapoge",
+         "code":"825081"
+      },
+      {
+         "name":"Zapoge obračališče",
+         "code":"825111"
+      },
+      {
+         "name":"Zapotok/Kureščkom K",
+         "code":"606041"
+      },
+      {
+         "name":"Zapuže",
+         "code":"804381"
+      },
+      {
+         "name":"Zasavska",
+         "code":"104171"
+      },
+      {
+         "name":"Zavrh",
+         "code":"815141"
+      },
+      {
+         "name":"Zbilje K",
+         "code":"805071"
+      },
+      {
+         "name":"Zbilje jezero",
+         "code":"805081"
+      },
+      {
+         "name":"Zbiljski Gaj",
+         "code":"805061"
+      },
+      {
+         "name":"Zdenska vas",
+         "code":"527021"
+      },
+      {
+         "name":"Zeleni gaj",
+         "code":"204191"
+      },
+      {
+         "name":"Zg. Besnica",
+         "code":"405071"
+      },
+      {
+         "name":"Zg. Gameljne",
+         "code":"104201"
+      },
+      {
+         "name":"Zgornja Šiška",
+         "code":"803091"
+      },
+      {
+         "name":"Zgornji log",
+         "code":"704141"
+      },
+      {
+         "name":"Zidarjevec",
+         "code":"614051"
+      },
+      {
+         "name":"Zidarjevec 2",
+         "code":"614101"
+      },
+      {
+         "name":"Ziherlova",
+         "code":"602093"
+      },
+      {
+         "name":"Zmajski most",
+         "code":"501021"
+      },
+      {
+         "name":"Znojilje K",
+         "code":"567051"
+      },
+      {
+         "name":"ČRNI LOG",
+         "code":"603261"
+      },
+      {
+         "name":"ČRNI VRH",
+         "code":"737041"
+      },
+      {
+         "name":"ČRNUČE",
+         "code":"104161"
+      },
+      {
+         "name":"Čebelarska",
+         "code":"803111"
+      },
+      {
+         "name":"Čerinova",
+         "code":"103121"
+      },
+      {
+         "name":"Črni Vrh nad Vrhovci",
+         "code":"737031"
+      },
+      {
+         "name":"Črnuče",
+         "code":"104163"
+      },
+      {
+         "name":"Čušperk",
+         "code":"526051"
+      },
+      {
+         "name":"ŠENTJOŠT",
+         "code":"716051"
+      },
+      {
+         "name":"ŠKOFLJICA obrač.",
+         "code":"515013"
+      },
+      {
+         "name":"ŠTEPANJSKO NAS.",
+         "code":"303041"
+      },
+      {
+         "name":"ŠTEPANJSKO NAS.",
+         "code":"303043"
+      },
+      {
+         "name":"Šemnikar",
+         "code":"406011"
+      },
+      {
+         "name":"Šentjakob",
+         "code":"204151"
+      },
+      {
+         "name":"Šentjakob",
+         "code":"204153"
+      },
+      {
+         "name":"Šentvid",
+         "code":"804041"
+      },
+      {
+         "name":"Šentvid pri Stični",
+         "code":"507111"
+      },
+      {
+         "name":"Šentvid pri Stični K",
+         "code":"507121"
+      },
+      {
+         "name":"Šentvid pri Stični ŽP",
+         "code":"507131"
+      },
+      {
+         "name":"Šinkov Turn",
+         "code":"826131"
+      },
+      {
+         "name":"Šinkov Turn hrib",
+         "code":"826141"
+      },
+      {
+         "name":"Škocjan",
+         "code":"546091"
+      },
+      {
+         "name":"Škoflje/Šentvidu",
+         "code":"508031"
+      },
+      {
+         "name":"Škofljica Javornik",
+         "code":"505011"
+      },
+      {
+         "name":"Škofljica Petkovšek",
+         "code":"504101"
+      },
+      {
+         "name":"Škofljica špica",
+         "code":"515011"
+      },
+      {
+         "name":"Škofljica žaga",
+         "code":"504111"
+      },
+      {
+         "name":"Škrilje",
+         "code":"605051"
+      },
+      {
+         "name":"Šlandrova",
+         "code":"104071"
+      },
+      {
+         "name":"Šmarje",
+         "code":"505061"
+      },
+      {
+         "name":"Šmartno",
+         "code":"104191"
+      },
+      {
+         "name":"Šmartno pod Š.G.",
+         "code":"104193"
+      },
+      {
+         "name":"Šola Jarše",
+         "code":"203041"
+      },
+      {
+         "name":"Šolska",
+         "code":"744011"
+      },
+      {
+         "name":"Špilar",
+         "code":"505031"
+      },
+      {
+         "name":"Št. Jurij",
+         "code":"546061"
+      },
+      {
+         "name":"Štajerska",
+         "code":"103181"
+      },
+      {
+         "name":"Štepanja vas",
+         "code":"403043"
+      },
+      {
+         "name":"Štepanja vas",
+         "code":"403041"
+      },
+      {
+         "name":"Študa polje",
+         "code":"204501"
+      },
+      {
+         "name":"Študa trgovina",
+         "code":"204471"
+      },
+      {
+         "name":"Študentsko naselje",
+         "code":"702021"
+      },
+      {
+         "name":"Šuica",
+         "code":"725021"
+      },
+      {
+         "name":"ŽELEZNA",
+         "code":"201011"
+      },
+      {
+         "name":"ŽELIMLJE",
+         "code":"525031"
+      },
+      {
+         "name":"Žabja vas",
+         "code":"535071"
+      },
+      {
+         "name":"Žale",
+         "code":"202061"
+      },
+      {
+         "name":"Žalna",
+         "code":"556111"
+      },
+      {
+         "name":"Žalna ŽP",
+         "code":"556041"
+      },
+      {
+         "name":"Žažar",
+         "code":"716031"
+      },
+      {
+         "name":"Želimlje Nučič",
+         "code":"525021"
+      },
+      {
+         "name":"Želimlje Rogovilec",
+         "code":"525011"
+      },
+      {
+         "name":"Žirovnik",
+         "code":"725061"
+      },
+      {
+         "name":"Žito",
+         "code":"203151"
+      },
+      {
+         "name":"Živalski vrt-ZOO",
+         "code":"703121"
+      }
+   ],
+   "from_center":[
+      {
+         "name":"7. septembra",
+         "code":"103112"
+      },
+      {
+         "name":"AMZS",
+         "code":"103032"
+      },
+      {
+         "name":"Adamičev spomenik",
+         "code":"505132"
+      },
+      {
+         "name":"Agrokombinatska",
+         "code":"204212"
+      },
+      {
+         "name":"Agrokombinatska",
+         "code":"204214"
+      },
+      {
+         "name":"Ajdovščina",
+         "code":"600022"
+      },
+      {
+         "name":"Akademija",
+         "code":"503032"
+      },
+      {
+         "name":"Aleja",
+         "code":"803022"
+      },
+      {
+         "name":"Ambrožev trg",
+         "code":"502014"
+      },
+      {
+         "name":"Andreja Bitenca",
+         "code":"804172"
+      },
+      {
+         "name":"Anžon",
+         "code":"999872"
+      },
+      {
+         "name":"Archinetova",
+         "code":"303062"
+      },
+      {
+         "name":"Astra",
+         "code":"101052"
+      },
+      {
+         "name":"Aškerčeva",
+         "code":"602052"
+      },
+      {
+         "name":"BERIČEVO",
+         "code":"204172"
+      },
+      {
+         "name":"BTC-Emporium",
+         "code":"203142"
+      },
+      {
+         "name":"BTC-Merkur",
+         "code":"203242"
+      },
+      {
+         "name":"BTC-tržnica",
+         "code":"203122"
+      },
+      {
+         "name":"Baragova",
+         "code":"103212"
+      },
+      {
+         "name":"Barje",
+         "code":"604022"
+      },
+      {
+         "name":"Baron",
+         "code":"405122"
+      },
+      {
+         "name":"Bavarski dvor",
+         "code":"600012"
+      },
+      {
+         "name":"Belica",
+         "code":"725092"
+      },
+      {
+         "name":"Belinka",
+         "code":"204142"
+      },
+      {
+         "name":"Benat",
+         "code":"546022"
+      },
+      {
+         "name":"Besnica",
+         "code":"405022"
+      },
+      {
+         "name":"Besnica ambulanta",
+         "code":"405052"
+      },
+      {
+         "name":"Besnica kamnolom",
+         "code":"405062"
+      },
+      {
+         "name":"Besnica šola",
+         "code":"405032"
+      },
+      {
+         "name":"Bevke",
+         "code":"765032"
+      },
+      {
+         "name":"Bežigrad",
+         "code":"101032"
+      },
+      {
+         "name":"Bilečanska",
+         "code":"403072"
+      },
+      {
+         "name":"Bistra",
+         "code":"756102"
+      },
+      {
+         "name":"Bizovik",
+         "code":"404122"
+      },
+      {
+         "name":"Blatna Brezovica",
+         "code":"765042"
+      },
+      {
+         "name":"Blaževo",
+         "code":"405042"
+      },
+      {
+         "name":"Bleiweisova",
+         "code":"701012"
+      },
+      {
+         "name":"Blekova vas",
+         "code":"707012"
+      },
+      {
+         "name":"Bobrova",
+         "code":"504122"
+      },
+      {
+         "name":"Boga vas",
+         "code":"508022"
+      },
+      {
+         "name":"Bolnica",
+         "code":"402042"
+      },
+      {
+         "name":"Bolnica P. Držaja",
+         "code":"802042"
+      },
+      {
+         "name":"Bonifacija",
+         "code":"703102"
+      },
+      {
+         "name":"Borovnica K",
+         "code":"756062"
+      },
+      {
+         "name":"Borovnica most",
+         "code":"756052"
+      },
+      {
+         "name":"Božičeva",
+         "code":"103192"
+      },
+      {
+         "name":"Bratislavska",
+         "code":"203182"
+      },
+      {
+         "name":"Bratov Babnik",
+         "code":"803162"
+      },
+      {
+         "name":"Bratov Učakar",
+         "code":"803132"
+      },
+      {
+         "name":"Bratov Židan",
+         "code":"101062"
+      },
+      {
+         "name":"Brdo",
+         "code":"704026"
+      },
+      {
+         "name":"Breg pri Borovnici",
+         "code":"756042"
+      },
+      {
+         "name":"Brest",
+         "code":"615042"
+      },
+      {
+         "name":"Brezje pri Dobrovi",
+         "code":"715112"
+      },
+      {
+         "name":"Brezje pri Dobrovi And.",
+         "code":"715102"
+      },
+      {
+         "name":"Brezovica pošta",
+         "code":"744032"
+      },
+      {
+         "name":"Brezovica pri Ljubljani",
+         "code":"704082"
+      },
+      {
+         "name":"Brglezov štradon",
+         "code":"614022"
+      },
+      {
+         "name":"Brinje",
+         "code":"103022"
+      },
+      {
+         "name":"Briše pri Polh.G.",
+         "code":"726022"
+      },
+      {
+         "name":"Briše pri Polh.G.Koroš.",
+         "code":"726032"
+      },
+      {
+         "name":"Briše pri Polh.G.M.Voda",
+         "code":"726042"
+      },
+      {
+         "name":"Brod",
+         "code":"804122"
+      },
+      {
+         "name":"Brodarjev trg",
+         "code":"303072"
+      },
+      {
+         "name":"Brvace",
+         "code":"505092"
+      },
+      {
+         "name":"Bukovica Anzel",
+         "code":"826032"
+      },
+      {
+         "name":"Bukovica Plevevc",
+         "code":"826022"
+      },
+      {
+         "name":"Butajnova",
+         "code":"726072"
+      },
+      {
+         "name":"Butajnova Setnik",
+         "code":"726052"
+      },
+      {
+         "name":"Butajnova Čamernik",
+         "code":"726062"
+      },
+      {
+         "name":"C. dveh cesarjev",
+         "code":"704162"
+      },
+      {
+         "name":"Cankarjev dom",
+         "code":"602012"
+      },
+      {
+         "name":"Capuder",
+         "code":"614042"
+      },
+      {
+         "name":"Center Zalog",
+         "code":"204182"
+      },
+      {
+         "name":"Cesta XV",
+         "code":"703022"
+      },
+      {
+         "name":"Cesta na Brod",
+         "code":"104092"
+      },
+      {
+         "name":"Cesta na Drenik",
+         "code":"515192"
+      },
+      {
+         "name":"Cesta na Drenik 1",
+         "code":"515202"
+      },
+      {
+         "name":"Cesta na Drenik 2",
+         "code":"515212"
+      },
+      {
+         "name":"Cesta na Kope",
+         "code":"204352"
+      },
+      {
+         "name":"Cesta na Vevče",
+         "code":"304092"
+      },
+      {
+         "name":"Cesta na Vrhovce",
+         "code":"703222"
+      },
+      {
+         "name":"Cesta v Bizovik",
+         "code":"404022"
+      },
+      {
+         "name":"Cesta v Gorice",
+         "code":"704152"
+      },
+      {
+         "name":"Cesta v Kresnice",
+         "code":"204272"
+      },
+      {
+         "name":"Cesta v Zajčjo Dobravo",
+         "code":"204342"
+      },
+      {
+         "name":"Cesta v Zavoglje",
+         "code":"404072"
+      },
+      {
+         "name":"Cesta/Dobrepolju",
+         "code":"527012"
+      },
+      {
+         "name":"Chengdujska",
+         "code":"304042"
+      },
+      {
+         "name":"Cikava",
+         "code":"505082"
+      },
+      {
+         "name":"Cukrarna",
+         "code":"502022"
+      },
+      {
+         "name":"Cukrarna",
+         "code":"502024"
+      },
+      {
+         "name":"D. Brezovica Baša",
+         "code":"746022"
+      },
+      {
+         "name":"D. Brezovica Landovec",
+         "code":"746032"
+      },
+      {
+         "name":"D.vas pri Polh.G.",
+         "code":"725112"
+      },
+      {
+         "name":"Dalmatinova",
+         "code":"600032"
+      },
+      {
+         "name":"Debenc",
+         "code":"999862"
+      },
+      {
+         "name":"Dečja vas pri Zagradcu",
+         "code":"528092"
+      },
+      {
+         "name":"Dob/Šentvidu",
+         "code":"508012"
+      },
+      {
+         "name":"Dobravica K",
+         "code":"605032"
+      },
+      {
+         "name":"Dobrova",
+         "code":"725014"
+      },
+      {
+         "name":"Dobrova",
+         "code":"725012"
+      },
+      {
+         "name":"Dobrova Maček",
+         "code":"715082"
+      },
+      {
+         "name":"Dobrova Skodlar",
+         "code":"715092"
+      },
+      {
+         "name":"Dobrova graben",
+         "code":"715062"
+      },
+      {
+         "name":"Dobrova vodomet",
+         "code":"715072"
+      },
+      {
+         "name":"Dobrunje",
+         "code":"404032"
+      },
+      {
+         "name":"Dobrunje-2",
+         "code":"404132"
+      },
+      {
+         "name":"Dobrunjska c.",
+         "code":"404182"
+      },
+      {
+         "name":"Dobruša lipa",
+         "code":"825072"
+      },
+      {
+         "name":"Dol pri Borovnici Majer",
+         "code":"756082"
+      },
+      {
+         "name":"Dol pri Borovnici Pivk",
+         "code":"756092"
+      },
+      {
+         "name":"Dolgi most",
+         "code":"703112"
+      },
+      {
+         "name":"Dolgi most Rotar",
+         "code":"704052"
+      },
+      {
+         "name":"Dolnice",
+         "code":"804402"
+      },
+      {
+         "name":"Dom obrtnikov",
+         "code":"505192"
+      },
+      {
+         "name":"Dom starejših",
+         "code":"505182"
+      },
+      {
+         "name":"Domžale",
+         "code":"105142"
+      },
+      {
+         "name":"Dornig",
+         "code":"614032"
+      },
+      {
+         "name":"Draga",
+         "code":"803222"
+      },
+      {
+         "name":"Dragomelj",
+         "code":"204232"
+      },
+      {
+         "name":"Dragomelj - 1",
+         "code":"204482"
+      },
+      {
+         "name":"Dragomer",
+         "code":"705012"
+      },
+      {
+         "name":"Drama",
+         "code":"602022"
+      },
+      {
+         "name":"Draveljska gmajna",
+         "code":"803152"
+      },
+      {
+         "name":"Dravlje",
+         "code":"803042"
+      },
+      {
+         "name":"Draževnik",
+         "code":"715012"
+      },
+      {
+         "name":"Drenikova",
+         "code":"802052"
+      },
+      {
+         "name":"Drenov Grič",
+         "code":"705052"
+      },
+      {
+         "name":"Drobnič",
+         "code":"535042"
+      },
+      {
+         "name":"Dvor",
+         "code":"804352"
+      },
+      {
+         "name":"Dvor pri Polh.G.",
+         "code":"725102"
+      },
+      {
+         "name":"Elma",
+         "code":"104062"
+      },
+      {
+         "name":"Emona",
+         "code":"403052"
+      },
+      {
+         "name":"Erbežnik",
+         "code":"745022"
+      },
+      {
+         "name":"Flajšmanova",
+         "code":"202082"
+      },
+      {
+         "name":"Friškovec",
+         "code":"301012"
+      },
+      {
+         "name":"G. Brezovica",
+         "code":"746042"
+      },
+      {
+         "name":"G.vas/Muljavi K",
+         "code":"567032"
+      },
+      {
+         "name":"GD Gameljne",
+         "code":"104362"
+      },
+      {
+         "name":"Gaberje pri Dob.Brvičar",
+         "code":"725042"
+      },
+      {
+         "name":"Gaberje pri Dobrovi",
+         "code":"725032"
+      },
+      {
+         "name":"Gabrovčec K",
+         "code":"567062"
+      },
+      {
+         "name":"Galjevica",
+         "code":"603162"
+      },
+      {
+         "name":"Ganter",
+         "code":"999832"
+      },
+      {
+         "name":"Gasilska brigada",
+         "code":"102032"
+      },
+      {
+         "name":"Gerbičeva",
+         "code":"603022"
+      },
+      {
+         "name":"Glinek Gumnišče",
+         "code":"515132"
+      },
+      {
+         "name":"Glinek/Škofljici",
+         "code":"515022"
+      },
+      {
+         "name":"Glogovica K",
+         "code":"507142"
+      },
+      {
+         "name":"Glonarjeva",
+         "code":"402052"
+      },
+      {
+         "name":"Golo",
+         "code":"605062"
+      },
+      {
+         "name":"Golouhova",
+         "code":"603152"
+      },
+      {
+         "name":"Goričane kopališče",
+         "code":"815202"
+      },
+      {
+         "name":"Goričane pod gradom",
+         "code":"815192"
+      },
+      {
+         "name":"Goričica pod Krimom",
+         "code":"756022"
+      },
+      {
+         "name":"Gorjančeva",
+         "code":"103092"
+      },
+      {
+         "name":"Gornje Blato 1",
+         "code":"515172"
+      },
+      {
+         "name":"Gornje Blato 2",
+         "code":"515182"
+      },
+      {
+         "name":"Gornje Blato Center",
+         "code":"515162"
+      },
+      {
+         "name":"Gornje Poljane",
+         "code":"402062"
+      },
+      {
+         "name":"Gornji Rudnik",
+         "code":"504012"
+      },
+      {
+         "name":"Gornji trg",
+         "code":"602102"
+      },
+      {
+         "name":"Goropečnikova",
+         "code":"204492"
+      },
+      {
+         "name":"Gosposvetska",
+         "code":"700012"
+      },
+      {
+         "name":"Gostilna Kovač",
+         "code":"815102"
+      },
+      {
+         "name":"Gradišče 1",
+         "code":"515102"
+      },
+      {
+         "name":"Gradišče 2",
+         "code":"515112"
+      },
+      {
+         "name":"Grintovec/Zagradcu",
+         "code":"528102"
+      },
+      {
+         "name":"Griže/Stični",
+         "code":"507092"
+      },
+      {
+         "name":"Grm",
+         "code":"508052"
+      },
+      {
+         "name":"Grosuplje Motel",
+         "code":"506012"
+      },
+      {
+         "name":"Grosuplje SM",
+         "code":"556012"
+      },
+      {
+         "name":"Grčarevski Vrh",
+         "code":"707044"
+      },
+      {
+         "name":"Gumnišče 1",
+         "code":"515152"
+      },
+      {
+         "name":"Gumnišče center",
+         "code":"515142"
+      },
+      {
+         "name":"Hajdrihova",
+         "code":"602032"
+      },
+      {
+         "name":"Havptmance",
+         "code":"604042"
+      },
+      {
+         "name":"Hladilniška",
+         "code":"204312"
+      },
+      {
+         "name":"Hlebš",
+         "code":"405082"
+      },
+      {
+         "name":"Horjul",
+         "code":"716012"
+      },
+      {
+         "name":"Hrastenice",
+         "code":"725072"
+      },
+      {
+         "name":"Hrastje",
+         "code":"204062"
+      },
+      {
+         "name":"Hrastje pri Golem",
+         "code":"605072"
+      },
+      {
+         "name":"Hraše center",
+         "code":"816012"
+      },
+      {
+         "name":"Hraše vzhod",
+         "code":"816022"
+      },
+      {
+         "name":"Hraše zahod",
+         "code":"815132"
+      },
+      {
+         "name":"Hruševo",
+         "code":"725052"
+      },
+      {
+         "name":"Hruševska",
+         "code":"404112"
+      },
+      {
+         "name":"Hrušica",
+         "code":"404012"
+      },
+      {
+         "name":"Hrvatski trg",
+         "code":"402012"
+      },
+      {
+         "name":"I. Kobilca",
+         "code":"703212"
+      },
+      {
+         "name":"I.C. Šiška",
+         "code":"103232"
+      },
+      {
+         "name":"IMP",
+         "code":"804162"
+      },
+      {
+         "name":"Ig",
+         "code":"625022"
+      },
+      {
+         "name":"Ig AP",
+         "code":"605012"
+      },
+      {
+         "name":"Ig Petrol",
+         "code":"605082"
+      },
+      {
+         "name":"Ig mizarstvo",
+         "code":"605022"
+      },
+      {
+         "name":"Ihan Emona",
+         "code":"204422"
+      },
+      {
+         "name":"Ihan Flerin",
+         "code":"204402"
+      },
+      {
+         "name":"Ihan Termit",
+         "code":"204392"
+      },
+      {
+         "name":"Ihan farma",
+         "code":"204412"
+      },
+      {
+         "name":"Ilirska",
+         "code":"501012"
+      },
+      {
+         "name":"Ilovica",
+         "code":"603102"
+      },
+      {
+         "name":"Ivančna Gorica",
+         "code":"507032"
+      },
+      {
+         "name":"Ivančna Gorica ŠC",
+         "code":"507072"
+      },
+      {
+         "name":"Iška Loka",
+         "code":"615012"
+      },
+      {
+         "name":"Iška vas",
+         "code":"625052"
+      },
+      {
+         "name":"Iška vas šola",
+         "code":"625062"
+      },
+      {
+         "name":"Iški most",
+         "code":"604012"
+      },
+      {
+         "name":"Ižanska",
+         "code":"603122"
+      },
+      {
+         "name":"Ižica",
+         "code":"604062"
+      },
+      {
+         "name":"Jadranska",
+         "code":"603012"
+      },
+      {
+         "name":"Jamnikarjeva",
+         "code":"703032"
+      },
+      {
+         "name":"Jana Husa",
+         "code":"403012"
+      },
+      {
+         "name":"Japelj",
+         "code":"744022"
+      },
+      {
+         "name":"Jarše",
+         "code":"203092"
+      },
+      {
+         "name":"Javor",
+         "code":"405012"
+      },
+      {
+         "name":"Javor-2",
+         "code":"425012"
+      },
+      {
+         "name":"Ježa",
+         "code":"104182"
+      },
+      {
+         "name":"Ježica",
+         "code":"104032"
+      },
+      {
+         "name":"Ježkova",
+         "code":"703202"
+      },
+      {
+         "name":"Jurečič",
+         "code":"614112"
+      },
+      {
+         "name":"Jurčkova",
+         "code":"504042"
+      },
+      {
+         "name":"KPL",
+         "code":"404052"
+      },
+      {
+         "name":"KS. Pirniče",
+         "code":"815032"
+      },
+      {
+         "name":"Kajakaška",
+         "code":"815112"
+      },
+      {
+         "name":"Kajuhova",
+         "code":"303022"
+      },
+      {
+         "name":"Kal/Ambrusu",
+         "code":"528132"
+      },
+      {
+         "name":"Kal/Ambrusu K",
+         "code":"528122"
+      },
+      {
+         "name":"Kalce/Logatcu",
+         "code":"707032"
+      },
+      {
+         "name":"Kališnikov trg",
+         "code":"104022"
+      },
+      {
+         "name":"Kamna Gorica",
+         "code":"803182"
+      },
+      {
+         "name":"Kamni Vrh",
+         "code":"528142"
+      },
+      {
+         "name":"Kamnik pod Krimom",
+         "code":"745092"
+      },
+      {
+         "name":"Kamnik pod Krimom K.",
+         "code":"745082"
+      },
+      {
+         "name":"Kamnogoriška",
+         "code":"804392"
+      },
+      {
+         "name":"Kardeljeva ploščad",
+         "code":"102092"
+      },
+      {
+         "name":"Kavčičeva",
+         "code":"203052"
+      },
+      {
+         "name":"Kašeljska",
+         "code":"304162"
+      },
+      {
+         "name":"Kino Šiška",
+         "code":"802022"
+      },
+      {
+         "name":"Klinični center",
+         "code":"402032"
+      },
+      {
+         "name":"Kneza Koclja",
+         "code":"803082"
+      },
+      {
+         "name":"Kodeljevo",
+         "code":"403022"
+      },
+      {
+         "name":"Kodrova",
+         "code":"203102"
+      },
+      {
+         "name":"Kolodvor",
+         "code":"300012"
+      },
+      {
+         "name":"Kolodvor Črnuče",
+         "code":"104102"
+      },
+      {
+         "name":"Komanija",
+         "code":"715022"
+      },
+      {
+         "name":"Kompas",
+         "code":"803032"
+      },
+      {
+         "name":"Kongo",
+         "code":"505172"
+      },
+      {
+         "name":"Konzorcij",
+         "code":"601012"
+      },
+      {
+         "name":"Koprska",
+         "code":"603044"
+      },
+      {
+         "name":"Koseze",
+         "code":"803142"
+      },
+      {
+         "name":"Koseze",
+         "code":"826112"
+      },
+      {
+         "name":"Koseze Stare",
+         "code":"826122"
+      },
+      {
+         "name":"Kosmačeva",
+         "code":"804082"
+      },
+      {
+         "name":"Kot",
+         "code":"625042"
+      },
+      {
+         "name":"Kovinarska",
+         "code":"803212"
+      },
+      {
+         "name":"Kozarje",
+         "code":"704102"
+      },
+      {
+         "name":"Kozarje GD",
+         "code":"714012"
+      },
+      {
+         "name":"Kozarje gmajna",
+         "code":"714022"
+      },
+      {
+         "name":"Kozler",
+         "code":"614082"
+      },
+      {
+         "name":"Kožljevec",
+         "code":"535062"
+      },
+      {
+         "name":"Kranjčeva",
+         "code":"203212"
+      },
+      {
+         "name":"Krimska",
+         "code":"603032"
+      },
+      {
+         "name":"Kristalna palača",
+         "code":"203112"
+      },
+      {
+         "name":"Krivec",
+         "code":"804412"
+      },
+      {
+         "name":"Križanke",
+         "code":"602062"
+      },
+      {
+         "name":"Križišče Sostro",
+         "code":"404082"
+      },
+      {
+         "name":"Križišče Sostro",
+         "code":"404084"
+      },
+      {
+         "name":"Krožna pot",
+         "code":"404102"
+      },
+      {
+         "name":"Krpan",
+         "code":"536022"
+      },
+      {
+         "name":"Kržičeva",
+         "code":"101034"
+      },
+      {
+         "name":"Kurešček K",
+         "code":"606012"
+      },
+      {
+         "name":"Kurja vas/Šentjoštu",
+         "code":"727012"
+      },
+      {
+         "name":"Kužljevec K",
+         "code":"528112"
+      },
+      {
+         "name":"Lahova pot",
+         "code":"603112"
+      },
+      {
+         "name":"Lanišče",
+         "code":"406072"
+      },
+      {
+         "name":"Lavrica",
+         "code":"504092"
+      },
+      {
+         "name":"Lavrica pri Malči",
+         "code":"504082"
+      },
+      {
+         "name":"Ledena dvorana Zalog",
+         "code":"204302"
+      },
+      {
+         "name":"Leskoškova",
+         "code":"204012"
+      },
+      {
+         "name":"Lesno Brdo",
+         "code":"705042"
+      },
+      {
+         "name":"Letališka",
+         "code":"204042"
+      },
+      {
+         "name":"Ligojna K",
+         "code":"776042"
+      },
+      {
+         "name":"Lipe",
+         "code":"614072"
+      },
+      {
+         "name":"Litostroj",
+         "code":"103202"
+      },
+      {
+         "name":"Litostrojska",
+         "code":"803052"
+      },
+      {
+         "name":"Livada",
+         "code":"603092"
+      },
+      {
+         "name":"Ljubgojna",
+         "code":"716022"
+      },
+      {
+         "name":"Ljubljanaska",
+         "code":"105122"
+      },
+      {
+         "name":"Ljubljanska",
+         "code":"505152"
+      },
+      {
+         "name":"Ljubljanske brigade",
+         "code":"803062"
+      },
+      {
+         "name":"Lobček",
+         "code":"556092"
+      },
+      {
+         "name":"Log",
+         "code":"603252"
+      },
+      {
+         "name":"Log pri Brez.Mole",
+         "code":"705022"
+      },
+      {
+         "name":"Log pri Brez.vas",
+         "code":"705032"
+      },
+      {
+         "name":"Log pri Polh.G.",
+         "code":"725082"
+      },
+      {
+         "name":"Logatec",
+         "code":"707022"
+      },
+      {
+         "name":"Logatec Krpan",
+         "code":"706042"
+      },
+      {
+         "name":"Lukovica pri Brezovici",
+         "code":"704092"
+      },
+      {
+         "name":"Lutkovno gl.",
+         "code":"501032"
+      },
+      {
+         "name":"Luče Na Šoli",
+         "code":"556062"
+      },
+      {
+         "name":"M. Lipljene",
+         "code":"546082"
+      },
+      {
+         "name":"M. St. vas",
+         "code":"535022"
+      },
+      {
+         "name":"M. vas pri Grosupljem",
+         "code":"546052"
+      },
+      {
+         "name":"M.Hudo",
+         "code":"507022"
+      },
+      {
+         "name":"M.Ilova GORA",
+         "code":"526062"
+      },
+      {
+         "name":"M.Mlačevo",
+         "code":"526012"
+      },
+      {
+         "name":"M.Račna",
+         "code":"526042"
+      },
+      {
+         "name":"Mali vrh",
+         "code":"505042"
+      },
+      {
+         "name":"Marinča vas",
+         "code":"528042"
+      },
+      {
+         "name":"Maroltova",
+         "code":"103162"
+      },
+      {
+         "name":"Martinova",
+         "code":"804132"
+      },
+      {
+         "name":"Matena",
+         "code":"615032"
+      },
+      {
+         "name":"Mačkov graben",
+         "code":"736012"
+      },
+      {
+         "name":"Medno",
+         "code":"804072"
+      },
+      {
+         "name":"Medvode na klancu",
+         "code":"805052"
+      },
+      {
+         "name":"Medvoška a.p.",
+         "code":"805012"
+      },
+      {
+         "name":"Mercator",
+         "code":"102082"
+      },
+      {
+         "name":"Mestni log",
+         "code":"604032"
+      },
+      {
+         "name":"Mihov štradon",
+         "code":"503052"
+      },
+      {
+         "name":"Mirje",
+         "code":"602072"
+      },
+      {
+         "name":"Mostiček",
+         "code":"745032"
+      },
+      {
+         "name":"Mostovna",
+         "code":"102062"
+      },
+      {
+         "name":"Mrzle njive",
+         "code":"536012"
+      },
+      {
+         "name":"Mrzlo polje",
+         "code":"567012"
+      },
+      {
+         "name":"Muljava",
+         "code":"567042"
+      },
+      {
+         "name":"Murgle",
+         "code":"603064"
+      },
+      {
+         "name":"Murkova",
+         "code":"804212"
+      },
+      {
+         "name":"NS Rudnik",
+         "code":"504052"
+      },
+      {
+         "name":"Na Gmajni",
+         "code":"615022"
+      },
+      {
+         "name":"Na Gmajnici",
+         "code":"704062"
+      },
+      {
+         "name":"Na Pili",
+         "code":"999902"
+      },
+      {
+         "name":"Na jami",
+         "code":"802032"
+      },
+      {
+         "name":"Na klancu",
+         "code":"804092"
+      },
+      {
+         "name":"Na Žalah",
+         "code":"203232"
+      },
+      {
+         "name":"Nadgorica",
+         "code":"204132"
+      },
+      {
+         "name":"Navje",
+         "code":"100012"
+      },
+      {
+         "name":"Notranje Gorice",
+         "code":"745042"
+      },
+      {
+         "name":"Nova vas/Žireh",
+         "code":"999822"
+      },
+      {
+         "name":"Novaki",
+         "code":"746052"
+      },
+      {
+         "name":"Nove Žale",
+         "code":"203072"
+      },
+      {
+         "name":"Novo Polje",
+         "code":"204102"
+      },
+      {
+         "name":"Novo naselje",
+         "code":"805032"
+      },
+      {
+         "name":"Noč",
+         "code":"999852"
+      },
+      {
+         "name":"Nusdorferjeva",
+         "code":"303082"
+      },
+      {
+         "name":"Ob daljnovodu",
+         "code":"804112"
+      },
+      {
+         "name":"Ob sotočju",
+         "code":"303032"
+      },
+      {
+         "name":"Obrtna cona",
+         "code":"104082"
+      },
+      {
+         "name":"Omersova",
+         "code":"804202"
+      },
+      {
+         "name":"Opekarska",
+         "code":"603172"
+      },
+      {
+         "name":"Orel/Žireh",
+         "code":"999892"
+      },
+      {
+         "name":"Orlova",
+         "code":"503014"
+      },
+      {
+         "name":"Osenjakova",
+         "code":"304022"
+      },
+      {
+         "name":"Ostrovrhar",
+         "code":"204362"
+      },
+      {
+         "name":"Oval",
+         "code":"804342"
+      },
+      {
+         "name":"OŠ Brinje",
+         "code":"505162"
+      },
+      {
+         "name":"OŠ Domžale",
+         "code":"105112"
+      },
+      {
+         "name":"OŠ Maksa Pečarja",
+         "code":"104152"
+      },
+      {
+         "name":"OŠ Sostro",
+         "code":"404162"
+      },
+      {
+         "name":"POLHOV GRADEC",
+         "code":"726012"
+      },
+      {
+         "name":"POLICA/VIŠ. G.",
+         "code":"535092"
+      },
+      {
+         "name":"Pako",
+         "code":"756032"
+      },
+      {
+         "name":"Pance",
+         "code":"415052"
+      },
+      {
+         "name":"Park varne mobilnosti",
+         "code":"603202"
+      },
+      {
+         "name":"Parmova",
+         "code":"101022"
+      },
+      {
+         "name":"Pece K",
+         "code":"546042"
+      },
+      {
+         "name":"Perovo",
+         "code":"535012"
+      },
+      {
+         "name":"Peruzzijeva",
+         "code":"503042"
+      },
+      {
+         "name":"Petačev graben",
+         "code":"736022"
+      },
+      {
+         "name":"Petrol",
+         "code":"304112"
+      },
+      {
+         "name":"Peč pri Polici",
+         "code":"535082"
+      },
+      {
+         "name":"Pijava Gorica",
+         "code":"515032"
+      },
+      {
+         "name":"Plečnikova cerkev",
+         "code":"614012"
+      },
+      {
+         "name":"Plešivica pri Žalni",
+         "code":"556072"
+      },
+      {
+         "name":"Plešivica/Logu grad",
+         "code":"765022"
+      },
+      {
+         "name":"Plešivica/Logu spomenik",
+         "code":"765012"
+      },
+      {
+         "name":"Plešičeva",
+         "code":"803122"
+      },
+      {
+         "name":"Pod Debnim vrhom",
+         "code":"204282"
+      },
+      {
+         "name":"Pod Golovcem",
+         "code":"403032"
+      },
+      {
+         "name":"Pod Hribom",
+         "code":"504072"
+      },
+      {
+         "name":"Pod Rožnikom",
+         "code":"702012"
+      },
+      {
+         "name":"Pod Sivnikom",
+         "code":"404172"
+      },
+      {
+         "name":"Pod Urhom",
+         "code":"404142"
+      },
+      {
+         "name":"Pod gozdom",
+         "code":"505112"
+      },
+      {
+         "name":"Podgora",
+         "code":"804032"
+      },
+      {
+         "name":"Podgora pri Verdu",
+         "code":"756112"
+      },
+      {
+         "name":"Podgorica",
+         "code":"204222"
+      },
+      {
+         "name":"Podgozd",
+         "code":"605042"
+      },
+      {
+         "name":"Podgrad",
+         "code":"204262"
+      },
+      {
+         "name":"Podlesec/Žireh",
+         "code":"999882"
+      },
+      {
+         "name":"Podlipa",
+         "code":"776112"
+      },
+      {
+         "name":"Podlipa Kovtrov z.",
+         "code":"776122"
+      },
+      {
+         "name":"Podlipa Podlogar",
+         "code":"776082"
+      },
+      {
+         "name":"Podlipa Stope",
+         "code":"776062"
+      },
+      {
+         "name":"Podlipa Vičič",
+         "code":"776102"
+      },
+      {
+         "name":"Podlipa Zukancov z.",
+         "code":"777022"
+      },
+      {
+         "name":"Podlipa hrast",
+         "code":"776072"
+      },
+      {
+         "name":"Podlipa pri tran.",
+         "code":"776092"
+      },
+      {
+         "name":"Podlipa Županov z.",
+         "code":"777012"
+      },
+      {
+         "name":"Podlipoglav",
+         "code":"415022"
+      },
+      {
+         "name":"Podmilščakova",
+         "code":"102052"
+      },
+      {
+         "name":"Podmornica",
+         "code":"703052"
+      },
+      {
+         "name":"Podolnica",
+         "code":"715122"
+      },
+      {
+         "name":"Podpeč",
+         "code":"745052"
+      },
+      {
+         "name":"Podpeč",
+         "code":"745122"
+      },
+      {
+         "name":"Podpeč 1",
+         "code":"745112"
+      },
+      {
+         "name":"Podpeč/Lj. Jereb",
+         "code":"745072"
+      },
+      {
+         "name":"Podreber/Polh.G.",
+         "code":"725122"
+      },
+      {
+         "name":"Podsmreka GD",
+         "code":"715032"
+      },
+      {
+         "name":"Podsmreka Rotar",
+         "code":"715042"
+      },
+      {
+         "name":"Podsmreka pri Gorjancu",
+         "code":"715052"
+      },
+      {
+         "name":"Podsmreka pri Višnji G.",
+         "code":"506042"
+      },
+      {
+         "name":"Podvozna pot",
+         "code":"704182"
+      },
+      {
+         "name":"Pohorskega bataljona",
+         "code":"103062"
+      },
+      {
+         "name":"Polanškova",
+         "code":"104122"
+      },
+      {
+         "name":"Poliklinika",
+         "code":"402022"
+      },
+      {
+         "name":"Poljanska",
+         "code":"502012"
+      },
+      {
+         "name":"Polje",
+         "code":"304074"
+      },
+      {
+         "name":"Polje",
+         "code":"304072"
+      },
+      {
+         "name":"Polje obračališče",
+         "code":"825032"
+      },
+      {
+         "name":"Polje-kolodvor",
+         "code":"304082"
+      },
+      {
+         "name":"Polževo K",
+         "code":"507012"
+      },
+      {
+         "name":"Ponova vas",
+         "code":"546032"
+      },
+      {
+         "name":"Pot Rdečega križa",
+         "code":"703192"
+      },
+      {
+         "name":"Pot heroja Trtnika",
+         "code":"404192"
+      },
+      {
+         "name":"Pot na Fužine",
+         "code":"303052"
+      },
+      {
+         "name":"Pot na Rakovo jelšo",
+         "code":"603072"
+      },
+      {
+         "name":"Pot v Hrastovec",
+         "code":"104142"
+      },
+      {
+         "name":"Pot v Smrečje",
+         "code":"104132"
+      },
+      {
+         "name":"Pot v mejah",
+         "code":"204292"
+      },
+      {
+         "name":"Povodje",
+         "code":"825012"
+      },
+      {
+         "name":"Pošta Dobrunje",
+         "code":"404042"
+      },
+      {
+         "name":"Praproče pri Temenici",
+         "code":"508072"
+      },
+      {
+         "name":"Predole K",
+         "code":"526022"
+      },
+      {
+         "name":"Predstruge",
+         "code":"517032"
+      },
+      {
+         "name":"Preglov trg",
+         "code":"304012"
+      },
+      {
+         "name":"Prekmurska",
+         "code":"202022"
+      },
+      {
+         "name":"Prelog",
+         "code":"204432"
+      },
+      {
+         "name":"Prelog Mngan",
+         "code":"204442"
+      },
+      {
+         "name":"Preserje pod Krimom",
+         "code":"746012"
+      },
+      {
+         "name":"Preska",
+         "code":"815152"
+      },
+      {
+         "name":"Prevalje pod Krimom",
+         "code":"756012"
+      },
+      {
+         "name":"Prežganje",
+         "code":"406032"
+      },
+      {
+         "name":"Prežganje šola",
+         "code":"406042"
+      },
+      {
+         "name":"Pri Dogonivar",
+         "code":"415072"
+      },
+      {
+         "name":"Pri Dolencu",
+         "code":"415092"
+      },
+      {
+         "name":"Pri Maranzu",
+         "code":"604052"
+      },
+      {
+         "name":"Primožev ovinek",
+         "code":"415082"
+      },
+      {
+         "name":"Privoz",
+         "code":"602112"
+      },
+      {
+         "name":"Prušnikova",
+         "code":"804022"
+      },
+      {
+         "name":"Pržanec",
+         "code":"804232"
+      },
+      {
+         "name":"Puhova",
+         "code":"103042"
+      },
+      {
+         "name":"Radna",
+         "code":"704072"
+      },
+      {
+         "name":"Radohova vas/Šentvidu",
+         "code":"508042"
+      },
+      {
+         "name":"Rakitna",
+         "code":"746062"
+      },
+      {
+         "name":"Rakovnik",
+         "code":"503022"
+      },
+      {
+         "name":"Rakovnik pri Sori",
+         "code":"815212"
+      },
+      {
+         "name":"Rast",
+         "code":"403062"
+      },
+      {
+         "name":"Razdrto",
+         "code":"505052"
+      },
+      {
+         "name":"Razori K",
+         "code":"714042"
+      },
+      {
+         "name":"Razori Rogovilc",
+         "code":"714032"
+      },
+      {
+         "name":"Razstavišče",
+         "code":"100022"
+      },
+      {
+         "name":"Račeva",
+         "code":"999842"
+      },
+      {
+         "name":"Rašica",
+         "code":"104212"
+      },
+      {
+         "name":"Reaktor",
+         "code":"204162"
+      },
+      {
+         "name":"Reber pri Škofljici",
+         "code":"505022"
+      },
+      {
+         "name":"Remiza",
+         "code":"803014"
+      },
+      {
+         "name":"Repnje Benk",
+         "code":"825042"
+      },
+      {
+         "name":"Repnje kapelica",
+         "code":"825062"
+      },
+      {
+         "name":"Repnje samostan",
+         "code":"825052"
+      },
+      {
+         "name":"Rogovilc",
+         "code":"104112"
+      },
+      {
+         "name":"Rožičeva",
+         "code":"203022"
+      },
+      {
+         "name":"Rožna dolina",
+         "code":"703012"
+      },
+      {
+         "name":"Rudnik",
+         "code":"504032"
+      },
+      {
+         "name":"Rusjanov trg",
+         "code":"304032"
+      },
+      {
+         "name":"Ruski car",
+         "code":"103132"
+      },
+      {
+         "name":"Rutar",
+         "code":"614062"
+      },
+      {
+         "name":"Sadinja vas",
+         "code":"415012"
+      },
+      {
+         "name":"Samova",
+         "code":"102012"
+      },
+      {
+         "name":"Sap",
+         "code":"505072"
+      },
+      {
+         "name":"Sava",
+         "code":"104052"
+      },
+      {
+         "name":"Sava",
+         "code":"104054"
+      },
+      {
+         "name":"Savske stolpnice",
+         "code":"202032"
+      },
+      {
+         "name":"Savsko naselje",
+         "code":"202042"
+      },
+      {
+         "name":"Selo",
+         "code":"415042"
+      },
+      {
+         "name":"Selo Mali Dunaj",
+         "code":"826102"
+      },
+      {
+         "name":"Selo pri Radohovi vasi",
+         "code":"508062"
+      },
+      {
+         "name":"Selo pri Vodicah",
+         "code":"826052"
+      },
+      {
+         "name":"Silos",
+         "code":"304132"
+      },
+      {
+         "name":"Sinja Gorica",
+         "code":"705062"
+      },
+      {
+         "name":"Sinja Gorica avt.",
+         "code":"705072"
+      },
+      {
+         "name":"Sinja Gorica avt.",
+         "code":"705074"
+      },
+      {
+         "name":"Skaručna",
+         "code":"825022"
+      },
+      {
+         "name":"Slovenija avto",
+         "code":"803012"
+      },
+      {
+         "name":"Slovenijales",
+         "code":"204112"
+      },
+      {
+         "name":"Smelt",
+         "code":"103072"
+      },
+      {
+         "name":"Smlednik šola",
+         "code":"815122"
+      },
+      {
+         "name":"Smolnik Praprotnik",
+         "code":"737012"
+      },
+      {
+         "name":"Smolnik Setnik",
+         "code":"736052"
+      },
+      {
+         "name":"Smolnik Zalog",
+         "code":"736042"
+      },
+      {
+         "name":"Smolnik nad Hribom",
+         "code":"737022"
+      },
+      {
+         "name":"Smolnik žaga",
+         "code":"736032"
+      },
+      {
+         "name":"Smrekarjevo",
+         "code":"406052"
+      },
+      {
+         "name":"Smrečje/Vrh.pri Kapelici",
+         "code":"777052"
+      },
+      {
+         "name":"Smrečje/Vrhniko",
+         "code":"777062"
+      },
+      {
+         "name":"Smrečje/Vrhniko Samija",
+         "code":"777032"
+      },
+      {
+         "name":"Smrečje/Vrhniko pri Mihu",
+         "code":"777042"
+      },
+      {
+         "name":"Smrečje/Vrhniko vrh",
+         "code":"999912"
+      },
+      {
+         "name":"Smrjene",
+         "code":"515042"
+      },
+      {
+         "name":"Smrjene 1",
+         "code":"515092"
+      },
+      {
+         "name":"Smrjene 2",
+         "code":"515082"
+      },
+      {
+         "name":"Smrjene 3",
+         "code":"515072"
+      },
+      {
+         "name":"Smrjene 4",
+         "code":"515062"
+      },
+      {
+         "name":"Sneberje",
+         "code":"204072"
+      },
+      {
+         "name":"Sneberska",
+         "code":"204322"
+      },
+      {
+         "name":"Snoj",
+         "code":"614092"
+      },
+      {
+         "name":"Sora OŠ",
+         "code":"816032"
+      },
+      {
+         "name":"Sostro",
+         "code":"404092"
+      },
+      {
+         "name":"Sostro - 2",
+         "code":"404202"
+      },
+      {
+         "name":"Sp. Gameljne 1",
+         "code":"104332"
+      },
+      {
+         "name":"Sp. Gameljne 2",
+         "code":"104342"
+      },
+      {
+         "name":"Sp. Gameljne 3",
+         "code":"104352"
+      },
+      {
+         "name":"Sp. Pirniče",
+         "code":"815022"
+      },
+      {
+         "name":"Sp. Slivnica",
+         "code":"536032"
+      },
+      {
+         "name":"Spar",
+         "code":"803172"
+      },
+      {
+         "name":"Spodnji Rudnik",
+         "code":"504022"
+      },
+      {
+         "name":"Sr.vas pri Polh.G.",
+         "code":"725132"
+      },
+      {
+         "name":"Središka",
+         "code":"202092"
+      },
+      {
+         "name":"St.Vrhnika K",
+         "code":"776032"
+      },
+      {
+         "name":"St.trg/Višnji G.",
+         "code":"506032"
+      },
+      {
+         "name":"Stadion",
+         "code":"102042"
+      },
+      {
+         "name":"Stadion Domžale",
+         "code":"204462"
+      },
+      {
+         "name":"Staje",
+         "code":"625032"
+      },
+      {
+         "name":"Stanežiče",
+         "code":"804062"
+      },
+      {
+         "name":"Stara Ježica",
+         "code":"104372"
+      },
+      {
+         "name":"Stara cerkev",
+         "code":"802012"
+      },
+      {
+         "name":"Stara pošta",
+         "code":"505102"
+      },
+      {
+         "name":"Stična K",
+         "code":"507052"
+      },
+      {
+         "name":"Stična KZ",
+         "code":"507042"
+      },
+      {
+         "name":"Stožice",
+         "code":"103102"
+      },
+      {
+         "name":"Strahomer",
+         "code":"626022"
+      },
+      {
+         "name":"Streliška",
+         "code":"502032"
+      },
+      {
+         "name":"Strelišče",
+         "code":"503012"
+      },
+      {
+         "name":"Studenec",
+         "code":"304062"
+      },
+      {
+         "name":"Svetčeva",
+         "code":"702032"
+      },
+      {
+         "name":"SŠ Domžale",
+         "code":"105102"
+      },
+      {
+         "name":"Tabor",
+         "code":"804102"
+      },
+      {
+         "name":"Tabor",
+         "code":"804104"
+      },
+      {
+         "name":"Tacen",
+         "code":"804152"
+      },
+      {
+         "name":"Tacenski most",
+         "code":"804144"
+      },
+      {
+         "name":"Tacenski most",
+         "code":"804142"
+      },
+      {
+         "name":"Tbilisijska",
+         "code":"603144"
+      },
+      {
+         "name":"Tbilisijska",
+         "code":"603142"
+      },
+      {
+         "name":"Tehnounion",
+         "code":"803072"
+      },
+      {
+         "name":"Tiki",
+         "code":"802062"
+      },
+      {
+         "name":"Tinčk",
+         "code":"405102"
+      },
+      {
+         "name":"Tivoli",
+         "code":"801012"
+      },
+      {
+         "name":"Tobačna",
+         "code":"602042"
+      },
+      {
+         "name":"Tomačevska",
+         "code":"203032"
+      },
+      {
+         "name":"Tomažičeva",
+         "code":"603212"
+      },
+      {
+         "name":"Tomišelj",
+         "code":"615062"
+      },
+      {
+         "name":"Tomišelj A",
+         "code":"615072"
+      },
+      {
+         "name":"Tomišelj K",
+         "code":"615052"
+      },
+      {
+         "name":"Toplarna",
+         "code":"103012"
+      },
+      {
+         "name":"Topniška",
+         "code":"102022"
+      },
+      {
+         "name":"Tovarna Lek",
+         "code":"103052"
+      },
+      {
+         "name":"Tovorni kolodvor",
+         "code":"203062"
+      },
+      {
+         "name":"Trata",
+         "code":"804012"
+      },
+      {
+         "name":"Trbeže",
+         "code":"204252"
+      },
+      {
+         "name":"Trebeljevo",
+         "code":"406022"
+      },
+      {
+         "name":"Trnovo",
+         "code":"602122"
+      },
+      {
+         "name":"Troščine",
+         "code":"535052"
+      },
+      {
+         "name":"Tržnica Koseze",
+         "code":"803102"
+      },
+      {
+         "name":"Tržnica Moste",
+         "code":"303012"
+      },
+      {
+         "name":"Utik",
+         "code":"826042"
+      },
+      {
+         "name":"V. Lese",
+         "code":"528032"
+      },
+      {
+         "name":"V. Lipljene",
+         "code":"546072"
+      },
+      {
+         "name":"V. Mlačevo",
+         "code":"556104"
+      },
+      {
+         "name":"V. Mlačevo",
+         "code":"556102"
+      },
+      {
+         "name":"V. St. vas",
+         "code":"535032"
+      },
+      {
+         "name":"V.Račna",
+         "code":"526032"
+      },
+      {
+         "name":"VODICE",
+         "code":"826012"
+      },
+      {
+         "name":"Valburga",
+         "code":"815092"
+      },
+      {
+         "name":"Vaše",
+         "code":"815182"
+      },
+      {
+         "name":"Vaše Helios",
+         "code":"815172"
+      },
+      {
+         "name":"Veliki Lipoglav",
+         "code":"415032"
+      },
+      {
+         "name":"Veliki štradon",
+         "code":"603082"
+      },
+      {
+         "name":"Verd K",
+         "code":"756122"
+      },
+      {
+         "name":"Verje",
+         "code":"835012"
+      },
+      {
+         "name":"Vesca",
+         "code":"826062"
+      },
+      {
+         "name":"Vevče",
+         "code":"304102"
+      },
+      {
+         "name":"Vevče Papirnica",
+         "code":"304122"
+      },
+      {
+         "name":"Večna pot",
+         "code":"703182"
+      },
+      {
+         "name":"Viadukt",
+         "code":"202012"
+      },
+      {
+         "name":"Videm pri Ljubljani",
+         "code":"204382"
+      },
+      {
+         "name":"Vikrče",
+         "code":"815012"
+      },
+      {
+         "name":"Vir pri Stični",
+         "code":"507062"
+      },
+      {
+         "name":"Visoko/Kureščkom",
+         "code":"606032"
+      },
+      {
+         "name":"Vič",
+         "code":"703092"
+      },
+      {
+         "name":"Vič Glince",
+         "code":"703082"
+      },
+      {
+         "name":"Viško polje",
+         "code":"703042"
+      },
+      {
+         "name":"Višnja Gora",
+         "code":"506022"
+      },
+      {
+         "name":"Vižmarje",
+         "code":"804252"
+      },
+      {
+         "name":"Vnajnarje",
+         "code":"405092"
+      },
+      {
+         "name":"Vodice OŠ",
+         "code":"826092"
+      },
+      {
+         "name":"Vodičar",
+         "code":"505122"
+      },
+      {
+         "name":"Vodovodna",
+         "code":"102072"
+      },
+      {
+         "name":"Vojsko",
+         "code":"826082"
+      },
+      {
+         "name":"Volavlje",
+         "code":"406062"
+      },
+      {
+         "name":"Vrbljene",
+         "code":"625012"
+      },
+      {
+         "name":"Vrh nad Želimljami 1",
+         "code":"516062"
+      },
+      {
+         "name":"Vrh nad Želimljami 2",
+         "code":"516072"
+      },
+      {
+         "name":"Vrh nad Želimljami GD",
+         "code":"516052"
+      },
+      {
+         "name":"Vrhnika",
+         "code":"706012"
+      },
+      {
+         "name":"Vrhnika hrib",
+         "code":"706022"
+      },
+      {
+         "name":"Vrhnika samop.",
+         "code":"776012"
+      },
+      {
+         "name":"Vrhnika vrt.",
+         "code":"705082"
+      },
+      {
+         "name":"Vrhovci",
+         "code":"704032"
+      },
+      {
+         "name":"Vrzdenec",
+         "code":"716042"
+      },
+      {
+         "name":"Yulon",
+         "code":"203192"
+      },
+      {
+         "name":"ZAPOTOK",
+         "code":"606052"
+      },
+      {
+         "name":"ZD POLJE",
+         "code":"304142"
+      },
+      {
+         "name":"ZG. Pirniče",
+         "code":"815042"
+      },
+      {
+         "name":"Za travniki",
+         "code":"204372"
+      },
+      {
+         "name":"Zaboršt",
+         "code":"204452"
+      },
+      {
+         "name":"Zadvor",
+         "code":"404062"
+      },
+      {
+         "name":"Zadvor pri Grosupljem",
+         "code":"546012"
+      },
+      {
+         "name":"Zadvor-2",
+         "code":"404152"
+      },
+      {
+         "name":"Zagradec pri Grosupljem",
+         "code":"556082"
+      },
+      {
+         "name":"Zagradec/Krki",
+         "code":"528052"
+      },
+      {
+         "name":"Zaklanec/Horjulu",
+         "code":"715132"
+      },
+      {
+         "name":"Zakrajškova",
+         "code":"804502"
+      },
+      {
+         "name":"Zaloška",
+         "code":"303024"
+      },
+      {
+         "name":"Zaplana",
+         "code":"706032"
+      },
+      {
+         "name":"Zapoge",
+         "code":"825082"
+      },
+      {
+         "name":"Zapotok/Kureščkom K",
+         "code":"606042"
+      },
+      {
+         "name":"Zapuže",
+         "code":"804382"
+      },
+      {
+         "name":"Zasavska",
+         "code":"104172"
+      },
+      {
+         "name":"Zavrh",
+         "code":"815142"
+      },
+      {
+         "name":"Zbilje K",
+         "code":"805072"
+      },
+      {
+         "name":"Zbilje jezero",
+         "code":"805082"
+      },
+      {
+         "name":"Zbiljski Gaj",
+         "code":"805062"
+      },
+      {
+         "name":"Zdenska vas",
+         "code":"527022"
+      },
+      {
+         "name":"Zeleni gaj",
+         "code":"204192"
+      },
+      {
+         "name":"Zg. Besnica",
+         "code":"405072"
+      },
+      {
+         "name":"Zg. Gameljne",
+         "code":"104202"
+      },
+      {
+         "name":"Zgornja Šiška",
+         "code":"803092"
+      },
+      {
+         "name":"Zgornji log",
+         "code":"704142"
+      },
+      {
+         "name":"Zidarjevec",
+         "code":"614052"
+      },
+      {
+         "name":"Zidarjevec 2",
+         "code":"614102"
+      },
+      {
+         "name":"Ziherlova",
+         "code":"602092"
+      },
+      {
+         "name":"Zmajski most",
+         "code":"501022"
+      },
+      {
+         "name":"Znojilje K",
+         "code":"567052"
+      },
+      {
+         "name":"Čebelarska",
+         "code":"803112"
+      },
+      {
+         "name":"Čerinova",
+         "code":"103122"
+      },
+      {
+         "name":"Črni Vrh nad Vrhovci",
+         "code":"737032"
+      },
+      {
+         "name":"Črnuče",
+         "code":"104162"
+      },
+      {
+         "name":"Čušperk",
+         "code":"526052"
+      },
+      {
+         "name":"Šemnikar",
+         "code":"406012"
+      },
+      {
+         "name":"Šentjakob",
+         "code":"204152"
+      },
+      {
+         "name":"Šentjakob",
+         "code":"204154"
+      },
+      {
+         "name":"Šentvid",
+         "code":"804042"
+      },
+      {
+         "name":"Šentvid pri Stični",
+         "code":"507112"
+      },
+      {
+         "name":"Šentvid pri Stični K",
+         "code":"507122"
+      },
+      {
+         "name":"Šentvid pri Stični ŽP",
+         "code":"507132"
+      },
+      {
+         "name":"Šinkov Turn",
+         "code":"826132"
+      },
+      {
+         "name":"Šinkov Turn hrib",
+         "code":"826142"
+      },
+      {
+         "name":"Šišenska",
+         "code":"803016"
+      },
+      {
+         "name":"Škocjan",
+         "code":"546092"
+      },
+      {
+         "name":"Škoflje/Šentvidu",
+         "code":"508032"
+      },
+      {
+         "name":"Škofljica",
+         "code":"515012"
+      },
+      {
+         "name":"Škofljica Javornik",
+         "code":"505012"
+      },
+      {
+         "name":"Škofljica Petkovšek",
+         "code":"504102"
+      },
+      {
+         "name":"Škofljica žaga",
+         "code":"504112"
+      },
+      {
+         "name":"Škrilje",
+         "code":"605052"
+      },
+      {
+         "name":"Škrjanče/Iv.G.",
+         "code":"567022"
+      },
+      {
+         "name":"Šlandrova",
+         "code":"104072"
+      },
+      {
+         "name":"Šmarje",
+         "code":"505062"
+      },
+      {
+         "name":"Šmartno",
+         "code":"104192"
+      },
+      {
+         "name":"Šmartno pod Š.G.",
+         "code":"104194"
+      },
+      {
+         "name":"Šola Jarše",
+         "code":"203042"
+      },
+      {
+         "name":"Šola Jarše",
+         "code":"203044"
+      },
+      {
+         "name":"Šolska",
+         "code":"744012"
+      },
+      {
+         "name":"Špilar",
+         "code":"505032"
+      },
+      {
+         "name":"Št. Jurij",
+         "code":"546062"
+      },
+      {
+         "name":"Štajerska",
+         "code":"103182"
+      },
+      {
+         "name":"Štepanja vas",
+         "code":"403042"
+      },
+      {
+         "name":"Študa polje",
+         "code":"204502"
+      },
+      {
+         "name":"Študa trgovina",
+         "code":"204472"
+      },
+      {
+         "name":"Študentsko naselje",
+         "code":"702022"
+      },
+      {
+         "name":"Šuica",
+         "code":"725022"
+      },
+      {
+         "name":"ŽELEZNA",
+         "code":"201012"
+      },
+      {
+         "name":"ŽELIMLJE",
+         "code":"525032"
+      },
+      {
+         "name":"Žabja vas",
+         "code":"535072"
+      },
+      {
+         "name":"Žale",
+         "code":"202062"
+      },
+      {
+         "name":"Žažar",
+         "code":"716032"
+      },
+      {
+         "name":"Želimlje Nučič",
+         "code":"525022"
+      },
+      {
+         "name":"Želimlje Rogovilec",
+         "code":"525012"
+      },
+      {
+         "name":"Žiri",
+         "code":"999812"
+      },
+      {
+         "name":"Žirovnik",
+         "code":"725062"
+      },
+      {
+         "name":"Žito",
+         "code":"203152"
+      },
+      {
+         "name":"Živalski vrt-ZOO",
+         "code":"703122"
+      }
+   ]
+}
